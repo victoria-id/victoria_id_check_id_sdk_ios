@@ -9,14 +9,14 @@ To integrate the SDK into your Swift project, add the following dependency to yo
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-repository/your-swift-sdk.git", from: "1.5.0")
+    .package(url: "https://github.com/victoria-id/victoria_id_sdk_check_nfc_ios.git", from: "1.5.0")
 ]
 ```
 Then, make sure to add the SDK to the target that needs it:
 ```swift
 .target(
     name: "YourApp",
-    dependencies: ["YourSwiftSDK"]),
+    dependencies: ["Victoria_ID_Check_SDK"]),
 ```
 
 ## Usage
