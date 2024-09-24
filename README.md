@@ -33,8 +33,20 @@ sdkViewController.primary_color = UIColor(named: "color_primary")
 sdkViewController.color_secondary = UIColor(named: "color_secondary")
 sdkViewController.api_uri = URL(string: "https://yourapi.com/data?token=your_token")
 
+sdkViewController.onCompletion = { result in
+    switch result {
+    case .success(let meta_data):
+        // Handle success and process the meta_data
+        print("SDK completed with meta-data: \(meta_data)")
+    case .failure:
+        // Handle failure state
+        print("SDK failed or was canceled")
+    }
+}
+
 present(sdkViewController, animated: true, completion: nil)
 ```
+
 - `primary_color`: Set the primary color of the SDK’s UI.
 - `secondary_color`: Set the secondary color for accents.
 - `api_uri`: Provide the API URL (with token) for data retrieval. If omitted, the SDK will display the QR-code scanner step, which can still be themed using the passed color values.
