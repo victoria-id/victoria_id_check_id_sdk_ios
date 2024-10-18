@@ -20,17 +20,21 @@ The SDK is designed to launch an activity that walks the user through multiple s
 To integrate the SDK into your iOS project, add the following dependency to your `Package.swift` file:
 
 ```swift
+
 dependencies: [
     .package(url: "https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git", from: "1.5.0")
 ]
+
 ```
 
 Then, make sure to add the SDK to the target that needs it:
 
 ```swift
+
 .target(
     name: "Your application",
     dependencies: ["Victoria_ID_Check_ID_SDK"]),
+
 ```
 
 
