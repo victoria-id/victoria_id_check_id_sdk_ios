@@ -12,12 +12,9 @@ let package = Package(
             targets: ["victoria_id_sdk_nfc_ios"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "victoria_id_sdk_nfc_ios"),
-        .testTarget(
-            name: "victoria_id_sdk_nfc_iosTests",
-            dependencies: ["victoria_id_sdk_nfc_ios"]),
+        .binaryTarget(
+            name: "SimpleSomething",
+            url: "https://github.com/victoria-id/victoria_id_check_id_sdk_ios/releases/download/1.0.1/SimpleSomething.xcframework.zip",
+            checksum: "43e2f815bc149409943a3911e93cfa6039e253fc37950e14b58db672662607f8")
     ]
 )
