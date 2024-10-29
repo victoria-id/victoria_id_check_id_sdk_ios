@@ -4,12 +4,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "victoria_id_sdk_nfc_ios",
+    name: "victoria_id_check_id_sdk_ios",
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "victoria_id_sdk_nfc_ios",
-            targets: ["victoria_id_sdk_nfc_ios"]),
+            name: "victoria_id_check_id_sdk_ios",
+            targets: ["victoria_id_check_id_sdk_ios"]),
     ],
     targets: [
         .binaryTarget(
