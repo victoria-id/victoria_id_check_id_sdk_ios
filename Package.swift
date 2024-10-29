@@ -9,7 +9,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "victoria_id_check_id_sdk_ios",
-            targets: ["victoria_id_check_id_sdk_ios"]),
+            targets: ["SimpleSomething"]),
     ],
     targets: [
         .binaryTarget(
