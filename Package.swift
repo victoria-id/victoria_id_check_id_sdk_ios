@@ -14,7 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "victoria_id_check_id_sdk_ios",
-            url: "https://api.github.com/repos/victoria-id/victoria_id_check_id_sdk_ios/releases/assets/185844235.zip",
-            checksum: "ab25f4b050ff3b51ef19dd401f130713964908acb4588890744fd3930ab7255a")
+            path: "./Frameworks/victoria_id_check_id_sdk_ios.xcframework"),
+            //url: "https://api.github.com/repos/victoria-id/victoria_id_check_id_sdk_ios/releases/assets/185844235.zip",
+            //checksum: "ab25f4b050ff3b51ef19dd401f130713964908acb4588890744fd3930ab7255a")
     ]
 )
