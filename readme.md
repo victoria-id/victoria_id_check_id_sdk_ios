@@ -2,11 +2,15 @@
 
 ## Table of contents
 
-1. [Victoria ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
-   1. [Table of contents](#table-of-contents)
-   2. [Introduction](#introduction)
-   3. [Adding the SDK to your project](#adding-the-sdk-to-your-project)
-   4. [Usage](#usage)
+- [Victoria ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
+  - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Adding the SDK to your project](#adding-the-sdk-to-your-project)
+    - [Swift Package Manager (SPM)](#swift-package-manager-spm)
+      - [Installing via Xcode](#installing-via-xcode)
+      - [Installing via Package.swift](#installing-via-packageswift)
+    - [CocoaPods](#cocoapods)
+  - [Usage](#usage)
 
 
 ## Introduction
@@ -17,13 +21,28 @@ The SDK is designed to launch an activity that walks the user through multiple s
 
 ## Adding the SDK to your project
 
-To integrate the SDK into your iOS project, add the following dependency to your `Package.swift` file:
+### Swift Package Manager (SPM)
+
+#### Installing via Xcode
+
+1. Select `File` -> `Add Packages...` in the Xcode menu bar.
+2. Search for Victoria ID Check SDK package using the following URL:
+   
+   ```
+   https://github.com/victoria-id/victoria_id_check_id_sdk_ios
+   ```
+3. Click _Add Package_ to add the SDK to your Xcode project and confirm.
+
+#### Installing via Package.swift
+
+Add the following dependency to your `Package.swift` file:
 
 ```swift
 
-dependencies: [
-    .package(url: "https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git", from: "1.5.0")
-]
+.package(
+    url: "https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git",
+    from: "1.6.0"
+)
 
 ```
 
@@ -33,10 +52,19 @@ Then, make sure to add the SDK to the target that needs it:
 
 .target(
     name: "Your application",
-    dependencies: ["Victoria_ID_Check_ID_SDK"]),
+    dependencies: ["victoria_id_check_id_sdk_ios"]),
 
 ```
 
+### CocoaPods
+
+> **Note**: The SDK is distributed as an XCFramework, therefore **you are required to use CocoaPods 1.9.0 or newer**.
+
+Add the following to your Podfile:
+
+```ruby
+pod 'victoria_id_check_id_sdk_ios', git:'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git'
+```
 
 ## Usage
 
