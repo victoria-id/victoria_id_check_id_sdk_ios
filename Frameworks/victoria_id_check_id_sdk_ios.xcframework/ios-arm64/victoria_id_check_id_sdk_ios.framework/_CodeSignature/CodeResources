@@ -6,31 +6,19 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		q7OmzYEXZ2M6+6vuUwUJa4oSbwE=
+		I0lbD3LU/+9ZDJL/v922V6FWt6w=
 		</data>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
-		9HLQrNLmBi0zm0RhIqC6sdAlL/Q=
+		axX1ykGJO4iogDVS5Hy1sxBMsGA=
 		</data>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
 		</data>
-		<key>Frameworks/Pods_victoria_id_check_id_sdk_ios.framework/Info.plist</key>
-		<data>
-		fXS3Rn0/0zczBBmo9fz+I+ruJKs=
-		</data>
-		<key>Frameworks/Pods_victoria_id_check_id_sdk_ios.framework/Pods_victoria_id_check_id_sdk_ios</key>
-		<data>
-		WKhpktjLW2YRJ27NbGqpQsyPRXw=
-		</data>
-		<key>Frameworks/Pods_victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
-		<data>
-		dPqculdnJ7pzz+rAXLGAeh0wrO4=
-		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
-		CfFXyZuYvEIB6W51EW+RruNH0+I=
+		+Rx1ANXEt1yAm0EXE0Cg/IgZ80I=
 		</data>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -38,7 +26,7 @@
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
 		<data>
-		/tq86AGwlreXAZZncyW6irUNYEc=
+		J3l00kk3W+isxOZ9xub3Lsjd050=
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -50,11 +38,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lsVDwNHtjot7LwP8+DXYJV1HjxM=
+		NKyPk+aGT+CSEBDoRb06NvgpVFU=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		DhvwMrq18LsisMJCFp/hCsyud7E=
+		Py58hgeodDKHvahRZfdakpjXK3E=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -94,11 +82,11 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		jKd7fVJMcDBGMAVJxPR4XI58JGQ=
+		HkRnfE+lTUGfiZ+ALgdOsDFkZXI=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		bj9HCeqqsQY+hOAt+SJpzWnkMCU=
+		bOtsviSLrB3MmJaBh68kVKyzblc=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -106,15 +94,15 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		bj9HCeqqsQY+hOAt+SJpzWnkMCU=
+		bOtsviSLrB3MmJaBh68kVKyzblc=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		3tdkvL4aOaQ9mkd0tBpuGANTSEg=
+		bS8wcbbINbBE1ZF8tPHlvfquQ4I=
 		</data>
 		<key>Protobuf_Privacy.bundle/Info.plist</key>
 		<data>
-		9xnSq8m3fqipNw1vETnUbq5ZsYA=
+		8y8NuQY1L0jB3RTNK17B3/57yf8=
 		</data>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -124,7 +112,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iWrqI78tAy0iVgrWInsJL8wuxP4=
+			PTMpLJP2YyWSYXslEEpd4hF6A3E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -133,7 +121,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lHaorAlGK0wAlpAe7Ue86HYDgM0=
+			FGhHl/8mgVLXPAyVRBrv2WH97WE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -142,7 +130,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			96oZdqlDwoyf0s0dv7hD+7Nk0WY=
+			EflQ6A9tpWG//2bYP7cItIHLtv0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -153,7 +141,7 @@
 		</data>
 		<key>nanopb_Privacy.bundle/Info.plist</key>
 		<data>
-		BvdpY9hOKZKZWeX5ohejUslRIV8=
+		Ltejqku4G2KiJKidHT6exIi/HaU=
 		</data>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -171,7 +159,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xaXQCjlsDFOvTgG805cQ+ZTevx0=
+			e4G59oWNJyhfJ5zS0Q9qyOddB9c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -191,14 +179,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dr/19qIjmFs1VdD318hw2l6W8ACVi8U00Pkvg40GuW0=
+			EsAaS3ZF32pGICZ7c7I+goMrQYU2Fu3K0H5zPeH7G1M=
 			</data>
 		</dict>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WzZfEjKWlofb5ak06jJrRVvJxsQVG9su0xuQGy2F4ko=
+			exNr+qedFCAAskvGO97QG4tJVeatHXVmsTDDJH9qsOA=
 			</data>
 		</dict>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -208,32 +196,11 @@
 			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
 			</data>
 		</dict>
-		<key>Frameworks/Pods_victoria_id_check_id_sdk_ios.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			osMLiLoJ+CRzFIsfEryxUo2A817YG5ImElEMhuq7riY=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_victoria_id_check_id_sdk_ios.framework/Pods_victoria_id_check_id_sdk_ios</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AllFFhenRl37BihQ26pYUGauLQxFe7WrYO5JiSc1hIg=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HBAyz1uI49wXmwCifxpZXZwwBlWExy0gS0YOJoXbO1k=
-			</data>
-		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uS0mHBgum93RaGyCGvfhgVX+3P494KdMbrmgwREThDA=
+			6Yc3dlffZxlMGhIx8LdgEg6UBG+ygu1hqrsIXWRP+Qo=
 			</data>
 		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -247,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7AiAu9CbVkJ9GqaadzZwLh4P+ohi/+HNMa8s4Psxp+0=
+			S/+HzyEzfKhis0ruK/nwxeRQiRDngXUQpusCtJ/7URw=
 			</data>
 		</dict>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -268,7 +235,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Uc4nv6ajL4dCNJ4vz1w90ylKPXGGXTNYXkp2mQM2Uzw=
+			L3kDWURYSfdK6E9RyyFcO7XqLgE1B3ekqvVg15HhFYA=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -338,14 +305,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tQ5a9M1Ll3rc9HpPVBZ8tyq3HsHLhIworqwnsAM1Lig=
+			4cNft8izahFRPd7O75hiOIhAI0XH+cHa+Jdtd1gW2uk=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j4g5wH+OYT67M2Jp1f0uLCyoAjSeZnrNNjlGqGQSIgc=
+			Ha1UMD7kM6QQOX/zch7mp5wPI1wrxNI+MRmoPj4dTWQ=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -359,21 +326,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j4g5wH+OYT67M2Jp1f0uLCyoAjSeZnrNNjlGqGQSIgc=
+			Ha1UMD7kM6QQOX/zch7mp5wPI1wrxNI+MRmoPj4dTWQ=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vtoj4reDjuWtDv3M4P2yf0Ed1W+WYVfcs/UjHI/fLk0=
+			3OldxDs0bzm5e1EAgWI24tE/gYibpoBtw6BS9kulewQ=
 			</data>
 		</dict>
 		<key>Protobuf_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oWmPr25J1z3AQGefYY86NkLxFtpK2tN6ZXBwtoWtHkk=
+			/jpbkbOxzUzbwzzKtB28U99gpHHtYAHUrrkK4wuYRxM=
 			</data>
 		</dict>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -387,7 +354,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/NxjtFwTiZha5vZYPDEebEUixANnF4cYrYbPE20cYHk=
+			UycMjOcZma7od0Y1n1jpGKgPDu3U0xK2ZXyNdKQyXrc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -396,7 +363,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/lINEcrqwcVl4BIHRfN5vezJznKMCa+fP+I0mv1WtU=
+			rYHbAngXdawFHHnGw0tzg1zApRUVBTCdkBRHoDMlKBk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -405,7 +372,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/nLkKgdauLGvVdUS/uGR/X1v5eQARNxKLSKdtVG/a1s=
+			WtFL4ORTUPygvxaV2TonVQnNcIt76d2X6bZFwCt2O/0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -421,7 +388,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/gdPlE2Y7NrOjf1idrPICbODStE8vsksFJhMbj53Vnw=
+			Dz2HmeDlYSqCUA2dCz6EOYuZ8ta2u8bRsO0ELw2bhzU=
 			</data>
 		</dict>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -449,7 +416,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			shNuvBzRIFcXvWQILU5a81ZEzU76r8BDn5W0kV1jkyw=
+			mdsmHsPqZfTSsCXSds8NpNg96ca2wmev8gpDKRk9utA=
 			</data>
 			<key>optional</key>
 			<true/>
