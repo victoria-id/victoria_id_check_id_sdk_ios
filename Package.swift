@@ -14,8 +14,15 @@ let package = Package(
         .package(url: "https://github.com/AndyQ/NFCPassportReader.git", exact: "2.1.1")
     ],
     targets: [
-        .binaryTarget(
+        .target(
             name: "victoria_id_check_id_sdk_ios",
-            path: "./Frameworks/victoria_id_check_id_sdk_ios.xcframework"),
+            dependencies: [
+                "victoria_id_check_id_sdk_ios_binary",
+                "NFCPassportReader"
+            ]
+        ),
+        .binaryTarget(
+            name: "victoria_id_check_id_sdk_ios_binary",
+            path: "./Frameworks/victoria_id_check_id_sdk_ios.xcframework")
     ]
 )
