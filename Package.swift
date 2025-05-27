@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "victoria_id_check_id_sdk_ios",
+    platforms: [.iOS("15.0")],
     products: [
         .library(
             name: "victoria_id_check_id_sdk_ios",
