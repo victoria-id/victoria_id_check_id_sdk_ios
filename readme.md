@@ -68,6 +68,11 @@ pod 'victoria_id_check_id_sdk_ios', git:'https://github.com/victoria-id/victoria
 
 ## Usage
 
+First, import the SDK:
+```swift
+import victoria_id_check_id_sdk_ios
+```
+
 To start the SDK activity from the host application (your application), use the code below.
 For your convenience, we merged the code and this part of the documentation together so your codebase can benefit from code comments.
 
