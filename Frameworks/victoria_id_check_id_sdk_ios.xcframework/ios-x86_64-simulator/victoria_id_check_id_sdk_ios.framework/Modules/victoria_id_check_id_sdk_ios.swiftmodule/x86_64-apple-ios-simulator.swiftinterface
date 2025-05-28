@@ -16,6 +16,20 @@ import _AVKit_SwiftUI
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public enum ID_Check_Result_Code {
+  case exception_api_url
+  case exception_api_data
+  case exception_generic
+  case success
+  case feature_not_found_camera
+  case feature_not_found_nfc
+  case data_share_decline
+  public static func == (a: victoria_id_check_id_sdk_ios.ID_Check_Result_Code, b: victoria_id_check_id_sdk_ios.ID_Check_Result_Code) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
 @_Concurrency.MainActor(unsafe) public struct Root<Content> : SwiftUI.View where Content : SwiftUI.View {
   @_Concurrency.MainActor(unsafe) public init(_ content: Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
@@ -23,10 +37,12 @@ import _SwiftConcurrencyShims
   }
   public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios4RootV4bodyQrvp", 0) __<Content>
 }
-public struct Root_Switch : SwiftUI.View {
-  public init()
+public struct Victoria_ID_Check_ID_SDK : SwiftUI.View {
+  public init(isPresented: SwiftUI.Binding<Swift.Bool> = .constant(true), onCompletion: @escaping ((victoria_id_check_id_sdk_ios.ID_Check_Result_Code?) -> Swift.Void) = {_ in}, api_uri: Swift.String = "", color_primary: SwiftUI.Color? = nil, color_secondary: SwiftUI.Color? = nil, color_tertiary: SwiftUI.Color? = nil, font_color: SwiftUI.Color? = nil, background_color: SwiftUI.Color? = nil, continuous_flow: Swift.Bool = false)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }
-  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios11Root_SwitchV4bodyQrvp", 0) __
+  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios018Victoria_ID_Check_G4_SDKV4bodyQrvp", 0) __
 }
+extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Equatable {}
+extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Hashable {}
