@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		I0lbD3LU/+9ZDJL/v922V6FWt6w=
+		BX/CQEXfSXK+/MiESNzGdJnCKT8=
 		</data>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
-		Koz/4+rR1TgSGQQqIvzYajdvsFo=
+		m7TTnM2lqdTzLOEGHYX4O7v+em0=
 		</data>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
 		<data>
-		kXaZyueKPezfgSR94wx65OGlt/M=
+		X1tUsVq+Xbtf48fA7rMBsvWQ+MQ=
 		</data>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
 		<data>
-		NDU/bsaCKyqScIPIatb3ovqVCpQ=
+		yi+G4Ek+5ch4mcqeSuIVqw63JSQ=
 		</data>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -34,47 +34,11 @@
 		</data>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
-		6ukqms5w0g2gyWWVvGhqdjgNWSA=
+		rpOgT9l73drhRjriXOb6DehBRQM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kKbhl6FJc6d/Zvp54DXYWw0olIE=
-		</data>
-		<key>LatinOCRResources.bundle/Info.plist</key>
-		<data>
-		XtTVzeeDI8tyPdwEwGadDMO5aJM=
-		</data>
-		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<data>
-		V2ROSYH9TDZ87SKQfYmC78jkabg=
-		</data>
-		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<data>
-		W+TF/C0djllwb4ejtlbbwoqIOaA=
-		</data>
-		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<data>
-		6ny23cax5EGQNgpJKSnhJUhpxtQ=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
-		<data>
-		/LcQXDvm1hHXPLE3IVulrhpZePE=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<data>
-		66UmXr+gf7XJ71vLnqjAwes9Mnw=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<data>
-		68PK2+uslXMmEpqkRadeVy2t0PE=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<data>
-		BQIj06B3MVer0TIFCE1lwPQqAQ8=
-		</data>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<data>
-		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
+		QTGC7p3Hans/I3X9RLr1UP2nXgs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,27 +46,27 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JVCtlpu9p59z6bOEjj3dZrzZuR4=
+		CPNy0gF2A/LoskNuYQvfs5zwwuo=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		oVzjeQeoP3KHckzNhsFQty45zNo=
+		ZWaIqKGj+TnrZkUY1ZmTm8VxAto=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		hkTbi4TDt2dSy9hNzhKe+aT9Qo0=
+		jdCtN/+yf/QqDWH5evYTCn/PQ9o=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		oVzjeQeoP3KHckzNhsFQty45zNo=
+		ZWaIqKGj+TnrZkUY1ZmTm8VxAto=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ar25AmIaqyBSb/drk4FQJfMEVY4=
+		vhYUmsIgK4m2yZTNd9CzaxvXWNc=
 		</data>
 		<key>Protobuf_Privacy.bundle/Info.plist</key>
 		<data>
-		L4BYJQ8uwy4eWIYuluCJT0wACBo=
+		W7eR8PoSTM2/ElbI7ldzNRmEWx0=
 		</data>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -112,7 +76,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PTMpLJP2YyWSYXslEEpd4hF6A3E=
+			rHYT3dI/2EumReud8nHAeh2V14M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -121,7 +85,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FGhHl/8mgVLXPAyVRBrv2WH97WE=
+			sZlU7PLEFZVZhGIZUgSYs7EdGgg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -130,18 +94,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EflQ6A9tpWG//2bYP7cItIHLtv0=
+			jg/oGZuT9+WHc+XWRcnMsTmFS5o=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>liveness.mp4</key>
+		<data>
+		pDjhAcfHCLeEzOIRgmmLFc9O5do=
+		</data>
 		<key>mrz_animation.mp4</key>
 		<data>
 		xBd+fp5byblLcRPRVlcEgaEEFpY=
 		</data>
 		<key>nanopb_Privacy.bundle/Info.plist</key>
 		<data>
-		BDVGEb/9ppb8rkCSpC2s2nsz0Oc=
+		iDIT8dmwBmj6a6ZPNK9Gm1HO9rU=
 		</data>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -159,7 +127,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e4G59oWNJyhfJ5zS0Q9qyOddB9c=
+			tPm3MKR5uvuTN3hMWvo3y7kgVsU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -172,6 +140,14 @@
 		<data>
 		0DyGairkWeX3Lmg0M9o+yTwMbPo=
 		</data>
+		<key>tessdata/osd.traineddata</key>
+		<data>
+		KNNBJzp9FCuRIVRYx19bzHfoD00=
+		</data>
+		<key>tessdata/victoria_id_check_id_mrz.traineddata</key>
+		<data>
+		ZGg4itj3nHxLwYmh/dt+T2dRx5c=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -179,14 +155,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EsAaS3ZF32pGICZ7c7I+goMrQYU2Fu3K0H5zPeH7G1M=
+			G8VhjycjMm5ZDM0JmdEiPyqlCbratSnBdM/apbujQdM=
 			</data>
 		</dict>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sQfTCcQQNtEWmXgE5bEDAJkvMQQm2pgK9ISyB/XDgKc=
+			TsIs+5+rpKC33bA1IWdLKtW2fGFE6dtqrPIkQXzwfIg=
 			</data>
 		</dict>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -200,7 +176,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v/+i5gp3aD6FwxrpwKMrtvCQe2s84es8OhqI6rp6VK8=
+			S9sWsS0KifkA6VhS4qHAuPuNSDhecvtxIZjfX1MGtmY=
 			</data>
 		</dict>
 		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -214,7 +190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NuyXaBC5K2Sj8nCE4WDaQQ8DLnuOkwBi2UqM64EIFrE=
+			De0zehk1y1mqx00pc5JMA6X+DDf1um28XXFHZwlyNtw=
 			</data>
 		</dict>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -228,70 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zkJ9RqJwAVuWJc5B0XTMFbm0GqwGCiJ4AoZbfBHe96w=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gWBXBdFZAexHdrYuBN4s0QwIzBiZKiNtlsHckDF3SxY=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Gji2RtEJwU3YrjDV8SqQNvYPnpI8kwEzeqJQd1nysJg=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EPDNQpLTZ7J3ggU9/BhgwGKbEwmAWLOsHW7KYoi7+wQ=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
+			LCp75qYEGsMIJdxhLfrD7ZBuWGzM+XS47y0ZO/p8zUE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -305,42 +218,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X262NtYNYc3OQrwj26o1Dxw6YjoqPrEOS6W6Mhw3odE=
+			0AvhXm7r8Wb2hu5Al1HeIYV21t03dZjuckU92P91oJ0=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u5NPMrhjeSzrtfmeuqUiQXcXZJKRBrLCjA4YQFIu+VQ=
+			aVrQjDRpLKYOfOb5ZkKPlJblYBYwb7hlRWA69HNPEpQ=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xst5JppfsvYMRWu0Wajyflgj6uc43lRUtygpAUmmjN4=
+			Qhlg0HhMtvtfi7A/X6jly+G9JVlRxM9PROyihTQuvMk=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u5NPMrhjeSzrtfmeuqUiQXcXZJKRBrLCjA4YQFIu+VQ=
+			aVrQjDRpLKYOfOb5ZkKPlJblYBYwb7hlRWA69HNPEpQ=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LhJbuN083q0rP90qnepmb0Y1dA2VKeH89G09pGMg6gw=
+			2Lh7J35KVAINmtRFTUn3BWlT8VouaEjnD59VpgQzb3k=
 			</data>
 		</dict>
 		<key>Protobuf_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OPsxj4vEfLKr2jeYC+xqVxQ0EbfqnqTnMtOS43yTW54=
+			ME1YXy/5+kx15gpACwLPyTt91/BdXpDx5XItH81RvBY=
 			</data>
 		</dict>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -354,7 +267,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UycMjOcZma7od0Y1n1jpGKgPDu3U0xK2ZXyNdKQyXrc=
+			+OjW+x+gux6ZjPxlAhwkdwEpLFMcumW/c7Knq0E9wOc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -363,7 +276,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYHbAngXdawFHHnGw0tzg1zApRUVBTCdkBRHoDMlKBk=
+			5CD2CHKbN4MrJHoJtbNw6rEp9jhAijnrmoZmwrpUn+U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -372,10 +285,17 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WtFL4ORTUPygvxaV2TonVQnNcIt76d2X6bZFwCt2O/0=
+			Q6uWMfslylWy4bF3xo27sHGduBH3WWu7BEvl8yUqB1Y=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>liveness.mp4</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RmsqlIUWRu96/WiBuSWI3PhkLmhGCoC3GQEQ3nRaF8I=
+			</data>
 		</dict>
 		<key>mrz_animation.mp4</key>
 		<dict>
@@ -388,7 +308,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u425m6cuviZBStawsjZpqPNjQoD0EZG7LDn5Vg/mIlg=
+			E2tMeJgRrc2kVx7sGBvrdKIv4JG3HAelUNubkR9Bmbo=
 			</data>
 		</dict>
 		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -416,7 +336,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mdsmHsPqZfTSsCXSds8NpNg96ca2wmev8gpDKRk9utA=
+			KU/x5u/G2ytB98ARfGn3UdISTuknz49iTMAFIGWEOek=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -433,6 +353,20 @@
 			<key>hash2</key>
 			<data>
 			NK+KFPiKtcKSvJILrPfNOoM9pgMvfIBmZH4auanP5tU=
+			</data>
+		</dict>
+		<key>tessdata/osd.traineddata</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Z8q6GB5L983LPSNjOcK5do8QFKWL+IuneH2gMN0uw4=
+			</data>
+		</dict>
+		<key>tessdata/victoria_id_check_id_mrz.traineddata</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ICNg4N31raVHshwdoqTwmsb8nLA16NHiSA7N2nm8RVQ=
 			</data>
 		</dict>
 	</dict>
