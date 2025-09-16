@@ -13,7 +13,11 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/AndyQ/NFCPassportReader.git", exact: "2.1.1"),
-        .package(url: "https://github.com/victoria-id/Tesseract-OCR-iOS.git", branch: "v5.5")
+        .package(url: "https://github.com/victoria-id/Tesseract-OCR-iOS.git", branch: "v5.5"),
+        .package(
+            url: "https://github.com/iProov/ios-spm.git",
+            .upToNextMajor(from: "12.4.1")
+        ),
     ],
     targets: [
         .target(
@@ -21,7 +25,8 @@ let package = Package(
             dependencies: [
                 "victoria_id_check_id_sdk_ios",
                 "NFCPassportReader",
-                .product(name: "TesseractOCR", package: "Tesseract-OCR-iOS")
+                .product(name: "TesseractOCR", package: "Tesseract-OCR-iOS"),
+                .product(name: "iProov", package: "ios-spm"),
             ]
         ),
         .binaryTarget(
