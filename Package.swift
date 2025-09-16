@@ -21,7 +21,7 @@ let package = Package(
             dependencies: [
                 "victoria_id_check_id_sdk_ios",
                 "NFCPassportReader",
-                "TesseractOCR"
+                .product(name: "TesseractOCR", package: "Tesseract-OCR-iOS")
             ]
         ),
         .binaryTarget(
