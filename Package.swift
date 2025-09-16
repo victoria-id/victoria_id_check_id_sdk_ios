@@ -12,7 +12,7 @@ let package = Package(
             targets: ["victoria_id_check_id_sdk_ios_targets"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/AndyQ/NFCPassportReader.git", exact: "2.1.1"),
+        .package(url: "https://github.com/AndyQ/NFCPassportReader.git", exact: "2.1.2"),
         .package(url: "https://github.com/victoria-id/Tesseract-OCR-iOS.git", branch: "v5.5"),
         .package(
             url: "https://github.com/iProov/ios-spm.git",
