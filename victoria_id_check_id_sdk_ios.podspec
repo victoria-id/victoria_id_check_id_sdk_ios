@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '15.0'
-  s.dependency "iProov", '12.4.1'
+  s.dependency "iProov"
   s.dependency "NFCPassportReader", '2.1.2'
   s.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
 
