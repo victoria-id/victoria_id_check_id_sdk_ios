@@ -1,8 +1,9 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name victoria_id_check_id_sdk_ios
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name victoria_id_check_id_sdk_ios
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
 import AVFoundation
+import AVKit
 import Combine
 import CoreGraphics
 import CoreImage
@@ -30,19 +31,35 @@ public enum ID_Check_Result_Code {
     get
   }
 }
-@_Concurrency.MainActor(unsafe) public struct Root<Content> : SwiftUI.View where Content : SwiftUI.View {
-  @_Concurrency.MainActor(unsafe) public init(_ content: Content)
-  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+@_Concurrency.MainActor @preconcurrency public struct Root<Content> : SwiftUICore.View where Content : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(_ content: Content)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }
   public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios4RootV4bodyQrvp", 0) __<Content>
 }
-public struct Victoria_ID_Check_ID_SDK : SwiftUI.View {
-  public init(isPresented: SwiftUI.Binding<Swift.Bool> = .constant(true), onCompletion: @escaping ((victoria_id_check_id_sdk_ios.ID_Check_Result_Code?) -> Swift.Void) = {_ in}, api_uri: Swift.String = "", color_primary: SwiftUI.Color? = nil, color_secondary: SwiftUI.Color? = nil, color_tertiary: SwiftUI.Color? = nil, font_color: SwiftUI.Color? = nil, background_color: SwiftUI.Color? = nil, continuous_flow: Swift.Bool = false)
-  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+@_Concurrency.MainActor @preconcurrency public struct Button_Capsule<Content> : SwiftUICore.View where Content : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(@SwiftUICore.ViewBuilder _ content: @escaping () -> Content, action: @escaping () -> Swift.Void, outline: Swift.Bool = false)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }
-  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios018Victoria_ID_Check_G4_SDKV4bodyQrvp", 0) __
+  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios14Button_CapsuleV4bodyQrvp", 0) __<Content>
+}
+@_hasMissingDesignatedInitializers public class MRZ_Detector {
+  @objc deinit
+}
+public enum ID_Check_Event_Code {
+  case screen_entered(Swift.String)
+}
+@_Concurrency.MainActor @preconcurrency public struct Victoria_ID_Check_ID_SDK<Content> : SwiftUICore.View where Content : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(isPresented: SwiftUICore.Binding<Swift.Bool> = .constant(true), onCompletion: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Result_Code?) -> Swift.Void = {_ in}, api_uri: Swift.String = "", color_primary: SwiftUICore.Color? = nil, color_secondary: SwiftUICore.Color? = nil, color_tertiary: SwiftUICore.Color? = nil, font_color: SwiftUICore.Color? = nil, background_color: SwiftUICore.Color? = nil, onEvent: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Event_Code?) -> Swift.Void = {_ in}, continuous_flow: Swift.Bool = false, cover_fullscreen_visible: SwiftUICore.Binding<Swift.Bool> = .constant(false), @SwiftUICore.ViewBuilder cover_fullscreen: @escaping () -> Content = { EmptyView() })
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios018Victoria_ID_Check_G4_SDKV4bodyQrvp", 0) __<Content>
 }
 extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Equatable {}
 extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Hashable {}
+extension victoria_id_check_id_sdk_ios.Root : Swift.Sendable {}
+extension victoria_id_check_id_sdk_ios.Button_Capsule : Swift.Sendable {}
+extension victoria_id_check_id_sdk_ios.Victoria_ID_Check_ID_SDK : Swift.Sendable {}

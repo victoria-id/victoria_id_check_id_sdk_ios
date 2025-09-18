@@ -64,6 +64,7 @@ Add the following to your Podfile:
 
 ```ruby
 pod 'victoria_id_check_id_sdk_ios', git:'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git'
+ pod 'TesseractOCRiOS', :git => 'https://github.com/victoria-id/Tesseract-OCR-iOS', :tag => 'v5.5'
 ```
 
 ## Usage
