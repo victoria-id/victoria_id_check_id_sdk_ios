@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<data>
-		bRnSmYqIWkKSbWr2L8/THTmwSqU=
+		U6zdRRWpDL9wCUU6aIf5kqckVsY=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/Info.plist</key>
 		<data>
-		1I8yvFA6eQG3H5f8chFIafN6xv0=
+		E2hkD254v3e3bTikz3pAPCK6heY=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		X7z0ma/xiibtw4GfeCWLLhiDnRw=
+		JRZyqeo8049j0C2JmMLt10hsjQs=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
 		<dict>
@@ -150,7 +150,7 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<data>
-		MFXN6Pa1Q9GyswsnzHbHiFKovzA=
+		Khw0XdLHmn9WVXLLaAGZcRN/3kk=
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<data>
-		QTGC7p3Hans/I3X9RLr1UP2nXgs=
+		UvMIyk0d0U1UIWt5/Ij4QhEztWY=
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/Info.plist</key>
 		<data>
-		W7eR8PoSTM2/ElbI7ldzNRmEWx0=
+		90VFMungBHsD7xDeFqfAYZ1IODc=
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		rV7INh91OHA283jUdh9iE4F2mFA=
+		di0pMcXYC2ImauyDDeKnlum3Xz0=
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
 		<dict>
@@ -298,7 +298,7 @@
 		</data>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<data>
-		LiKBDycnmrJnaeWSJM5Fhs1exus=
+		yXyU53JGgNIJSQADXQwEVA43D0c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -395,11 +395,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bRnSmYqIWkKSbWr2L8/THTmwSqU=
+			U6zdRRWpDL9wCUU6aIf5kqckVsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			S8Dy2KAoNYHDTNwOD3RCb8RzD786UfkgMC05FM0m4XA=
+			pZS8wLvnXld58O3CMw3EA2gjKgbs0iDZbYmvVIkOkpY=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
@@ -461,11 +461,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1I8yvFA6eQG3H5f8chFIafN6xv0=
+			E2hkD254v3e3bTikz3pAPCK6heY=
 			</data>
 			<key>hash2</key>
 			<data>
-			1amSvpG3adQjyeYiC3ti6Tg/9R402bZmnoOeQ6bUyUE=
+			JMhq/lBGG4aBc8yib6hKOQhxzTfHsA6kxKAYR7Ixgc8=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -483,11 +483,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X7z0ma/xiibtw4GfeCWLLhiDnRw=
+			JRZyqeo8049j0C2JmMLt10hsjQs=
 			</data>
 			<key>hash2</key>
 			<data>
-			jEOcPo3x/t1XumfeAGXZ/sSXSoIAeAtllgN61ij6PNE=
+			2cV1MKIu7isyibhslLkzVeyaV+0xdHj8EIjhKiMkR1A=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
@@ -656,11 +656,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFXN6Pa1Q9GyswsnzHbHiFKovzA=
+			Khw0XdLHmn9WVXLLaAGZcRN/3kk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Y+DtvvFA5sV78yNw2IueMZVd/RZKP9dsJUwRg9sx/s=
+			mDfGqpxmKe1/grLPKOOLZ45r7mgsiMf7i4LkY1trzxY=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
@@ -755,11 +755,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QTGC7p3Hans/I3X9RLr1UP2nXgs=
+			UvMIyk0d0U1UIWt5/Ij4QhEztWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			isC4pTKyujZblhBniGwSWNMQgMXAPwc7lFbHdN8hD+M=
+			tXXRQAkA+qbXHKu7P0FupuSVbTz8JiKiVUlnJTg24oQ=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
@@ -821,11 +821,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			W7eR8PoSTM2/ElbI7ldzNRmEWx0=
+			90VFMungBHsD7xDeFqfAYZ1IODc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ME1YXy/5+kx15gpACwLPyTt91/BdXpDx5XItH81RvBY=
+			S8p0O/vq5QG7cWe7/9T/Q3E3Qxdwn27I4z7Wek2ETGo=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
@@ -843,11 +843,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rV7INh91OHA283jUdh9iE4F2mFA=
+			di0pMcXYC2ImauyDDeKnlum3Xz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			jGLHaQbLV7uzRA1H2uvxDKecVVwnRwx07tf1bgH6Z8Q=
+			Lk/wHSD6qNkz3n1CrBl0zIIFuZcKp/xQNFa3YrD3M7w=
 			</data>
 		</dict>
 		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
@@ -1016,11 +1016,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LiKBDycnmrJnaeWSJM5Fhs1exus=
+			yXyU53JGgNIJSQADXQwEVA43D0c=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZcCVX7KpIv1Ye/Hu1GP1QOjhwWEoJNFHImf92+VeOec=
+			UobdKV2PSjQI5ZwBE3fftnagCXngwMt88dfjtHymC9U=
 			</data>
 		</dict>
 	</dict>

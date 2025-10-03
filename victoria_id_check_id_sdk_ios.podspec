@@ -1,14 +1,14 @@
-Pod::Spec.new do |s|
-  s.name             = 'victoria_id_check_id_sdk_ios'
-  s.version          = '1.11.0'
-  s.summary          = 'ID check from Victoria ID'
-  s.homepage         = 'https://www.victoria-id.com/'
-  s.author           = { 'Victoria-ID' => 'support@victoria-id.com' }
-  s.source           = { :git => 'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git', :tag => s.version.to_s }
+Pod::Spec.new do |sdk|
+  sdk.name             = 'victoria_id_check_id_sdk_ios'
+  sdk.version          = '1.11.1'
+  sdk.summary          = 'ID check from Victoria ID'
+  sdk.homepage         = 'https://www.victoria-id.com/'
+  sdk.author           = { 'Victoria-ID' => 'support@victoria-id.com' }
+  sdk.source           = { :git => 'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git', :tag => sdk.version.to_s }
 
-  s.ios.deployment_target = '15.0'
-  s.dependency "iProov"
-  s.dependency "NFCPassportReader", '2.1.2'
-  s.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
+  sdk.ios.deployment_target = '15.0'
+  sdk.dependency "iProov", '12.5.0'
+  sdk.dependency "NFCPassportReader", '2.1.2'
+  sdk.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
 
 end
