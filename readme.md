@@ -2,15 +2,15 @@
 
 ## Table of contents
 
-- [Victoria ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
-  - [Table of contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Adding the SDK to your project](#adding-the-sdk-to-your-project)
-    - [Swift Package Manager (SPM)](#swift-package-manager-spm)
-      - [Installing via Xcode](#installing-via-xcode)
-      - [Installing via Package.swift](#installing-via-packageswift)
-    - [CocoaPods](#cocoapods)
-  - [Usage](#usage)
+1. [Victoria ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
+   1. [Table of contents](#table-of-contents)
+   2. [Introduction](#introduction)
+   3. [Adding the SDK to your project](#adding-the-sdk-to-your-project)
+      1. [Swift Package Manager (SPM)](#swift-package-manager-spm)
+         1. [Installing via Xcode](#installing-via-xcode)
+         2. [Installing via Package.swift](#installing-via-packageswift)
+      2. [CocoaPods](#cocoapods)
+   4. [Usage](#usage)
 
 
 ## Introduction
@@ -27,7 +27,7 @@ The SDK is designed to launch an activity that walks the user through multiple s
 
 1. Select `File` -> `Add Packages...` in the Xcode menu bar.
 2. Search for Victoria ID Check SDK package using the following URL:
-   
+
    ```
    https://github.com/victoria-id/victoria_id_check_id_sdk_ios
    ```
@@ -64,7 +64,7 @@ Add the following to your Podfile:
 
 ```ruby
 pod 'victoria_id_check_id_sdk_ios', git:'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git'
- pod 'TesseractOCRiOS', :git => 'https://github.com/victoria-id/Tesseract-OCR-iOS', :tag => 'v5.5'
+pod 'TesseractOCRiOS', :git => 'https://github.com/victoria-id/Tesseract-OCR-iOS', :tag => 'v5.5'
 ```
 
 ## Usage
