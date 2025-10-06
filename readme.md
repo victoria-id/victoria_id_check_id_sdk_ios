@@ -41,7 +41,7 @@ Add the following dependency to your `Package.swift` file:
 
 .package(
     url: "https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git",
-    from: "1.6.0"
+    from: "1.11.0"
 )
 
 ```
