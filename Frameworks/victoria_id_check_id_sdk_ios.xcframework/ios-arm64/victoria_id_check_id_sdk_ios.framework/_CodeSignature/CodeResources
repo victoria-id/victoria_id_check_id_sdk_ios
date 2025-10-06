@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bRnSmYqIWkKSbWr2L8/THTmwSqU=
+		U6zdRRWpDL9wCUU6aIf5kqckVsY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		upPN8OoqzzTfGpyEEuIQDcG1tH4=
+		X3pAXoAJJRIlxbLNJusLrn1dY9k=
 		</data>
 		<key>Protobuf_Privacy.bundle/Info.plist</key>
 		<data>
-		1I8yvFA6eQG3H5f8chFIafN6xv0=
+		E2hkD254v3e3bTikz3pAPCK6heY=
 		</data>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -246,14 +246,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			53xaP1DYAhji+2NwAmwYpgCrkADsJh/G4C1q9PDirWE=
+			zNZ4h9un8f+VqIzfKP9NQtuahbESGFzjYL4/+8Jp3Hg=
 			</data>
 		</dict>
 		<key>Protobuf_Privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1amSvpG3adQjyeYiC3ti6Tg/9R402bZmnoOeQ6bUyUE=
+			JMhq/lBGG4aBc8yib6hKOQhxzTfHsA6kxKAYR7Ixgc8=
 			</data>
 		</dict>
 		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
