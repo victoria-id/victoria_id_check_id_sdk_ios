@@ -130,11 +130,12 @@ Victoria_ID_Check_ID_SDK(
     // Set the initial theme colors of the UI.
     // These colors should match the colors as they are set in the Portal settings of the screening portal.
     // When the SDK reaches step 3 of the user flow, it has made contact with the portal and fetched updated colors.
-    color_primary: Color(named: "color_primary"), // The primary color used for call-to-action elements.
-    color_secondary: Color(named: "color_secondary"), // Reserved.
-    color_tertiary: Color(named: "color_tertiary"), // Reserved.
-    font_color: Color(named: "font_color"), // Reserved.
-    background_color: Color(named: "background_color") // Reserved.
+    color_primary: Color(named: "color_primary"),       // The primary color used for call-to-action elements.
+    color_secondary: Color(named: "color_secondary"),   // Reserved.
+    color_tertiary: Color(named: "color_tertiary"),     // Reserved.
+
+    font_color: Color(named: "font_color"),             // Reserved.
+    background_color: Color(named: "background_color")  // Reserved.
 )
 
 ```
