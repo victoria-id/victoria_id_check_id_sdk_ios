@@ -11,7 +11,7 @@ Pod::Spec.new do |sdk|
   sdk.ios.deployment_target = '15.0'
   sdk.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
 
-  sdk.dependency "iProov", '12.5.0'
-  sdk.dependency "NFCPassportReader", '2.1.2'
+  sdk.dependency 'iProov', '12.5.0'
+  sdk.dependency 'NFCPassportReader', '2.1.2'
 
 end
