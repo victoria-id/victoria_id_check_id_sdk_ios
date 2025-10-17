@@ -1,7 +1,7 @@
 Pod::Spec.new do |sdk|
 
   sdk.name             = 'victoria_id_check_id_sdk_ios'
-  sdk.version          = '1.11.1'
+  sdk.version          = '1.12.0'
   sdk.summary          = 'Victoria-ID - ID check - SDK - iOS'
 
   sdk.homepage         = 'https://www.victoria-id.com/'

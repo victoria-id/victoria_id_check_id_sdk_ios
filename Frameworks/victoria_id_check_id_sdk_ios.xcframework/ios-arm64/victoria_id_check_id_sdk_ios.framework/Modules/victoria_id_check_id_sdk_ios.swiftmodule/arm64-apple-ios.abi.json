@@ -36,13 +36,10 @@
       },
       {
         "kind": "Import",
-        "name": "MLKit",
-        "printedName": "MLKit",
+        "name": "Vision",
+        "printedName": "Vision",
         "declKind": "Import",
-        "moduleName": "victoria_id_check_id_sdk_ios",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
+        "moduleName": "victoria_id_check_id_sdk_ios"
       },
       {
         "kind": "Import",
@@ -815,18 +812,15 @@
       },
       {
         "kind": "Import",
-        "name": "MLKit",
-        "printedName": "MLKit",
+        "name": "Combine",
+        "printedName": "Combine",
         "declKind": "Import",
-        "moduleName": "victoria_id_check_id_sdk_ios",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
+        "moduleName": "victoria_id_check_id_sdk_ios"
       },
       {
         "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
+        "name": "Vision",
+        "printedName": "Vision",
         "declKind": "Import",
         "moduleName": "victoria_id_check_id_sdk_ios"
       },
@@ -876,16 +870,6 @@
         "printedName": "AVFoundation",
         "declKind": "Import",
         "moduleName": "victoria_id_check_id_sdk_ios"
-      },
-      {
-        "kind": "Import",
-        "name": "MLKit",
-        "printedName": "MLKit",
-        "declKind": "Import",
-        "moduleName": "victoria_id_check_id_sdk_ios",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
       },
       {
         "kind": "Import",
@@ -2055,16 +2039,6 @@
       },
       {
         "kind": "Import",
-        "name": "MLKit",
-        "printedName": "MLKit",
-        "declKind": "Import",
-        "moduleName": "victoria_id_check_id_sdk_ios",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "QKMRZParser",
         "printedName": "QKMRZParser",
         "declKind": "Import",
@@ -2089,6 +2063,13 @@
         "declAttributes": [
           "ImplementationOnly"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "victoria_id_check_id_sdk_ios"
       },
       {
         "kind": "Import",
@@ -2149,42 +2130,42 @@
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/TD_Contra_Scanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 805,
+      "offset": 785,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/TD_Contra_Scanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1009,
+      "offset": 989,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/TD_Contra_Scanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1062,
+      "offset": 1042,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/TD_Contra_Scanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1209,
+      "offset": 1189,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/TD_Contra_Scanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1298,
+      "offset": 1278,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/TD_Contra_Scanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1452,
+      "offset": 1432,
       "length": 5,
       "value": "false"
     },
@@ -4151,42 +4132,42 @@
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/QRCode_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1036,
+      "offset": 1016,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/QRCode_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1084,
+      "offset": 1064,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/QRCode_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1259,
+      "offset": 1239,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/QRCode_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1458,
+      "offset": 1438,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/QRCode_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1647,
+      "offset": 1627,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/QRCode_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1801,
+      "offset": 1781,
       "length": 5,
       "value": "false"
     },
@@ -4200,28 +4181,28 @@
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Camera_Capture.swift",
       "kind": "StringLiteral",
-      "offset": 706,
+      "offset": 672,
       "length": 55,
       "value": "\"com.victoria-id.check.id.camera_capture.session_queue\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Camera_Capture.swift",
       "kind": "BooleanLiteral",
-      "offset": 8654,
+      "offset": 8378,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Camera_Capture.swift",
       "kind": "BooleanLiteral",
-      "offset": 8715,
+      "offset": 8439,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Camera_Capture.swift",
       "kind": "BooleanLiteral",
-      "offset": 10802,
+      "offset": 10478,
       "length": 5,
       "value": "false"
     },
@@ -5544,119 +5525,119 @@
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "FloatLiteral",
-      "offset": 300,
+      "offset": 280,
       "length": 4,
       "value": "0.90"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "IntegerLiteral",
-      "offset": 360,
+      "offset": 340,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "IntegerLiteral",
-      "offset": 414,
+      "offset": 394,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1058,
+      "offset": 1038,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1106,
+      "offset": 1086,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1281,
+      "offset": 1261,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1420,
+      "offset": 1400,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1567,
+      "offset": 1547,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1623,
+      "offset": 1603,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "Array",
-      "offset": 1682,
+      "offset": 1662,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "IntegerLiteral",
-      "offset": 1743,
+      "offset": 1723,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "StringLiteral",
-      "offset": 1807,
+      "offset": 1787,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 2000,
+      "offset": 1980,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "BooleanLiteral",
-      "offset": 2063,
+      "offset": 2043,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "StringLiteral",
-      "offset": 11630,
+      "offset": 11586,
       "length": 16,
       "value": "\"^[a-zA-Z0-9]*$\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "FloatLiteral",
-      "offset": 13573,
+      "offset": 14042,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "FloatLiteral",
-      "offset": 13620,
+      "offset": 14089,
       "length": 3,
       "value": "1.0"
     },

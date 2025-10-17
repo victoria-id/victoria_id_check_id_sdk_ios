@@ -1,0 +1,4 @@
+framework module victoria_id_check_id_sdk_ios {
+  header "victoria_id_check_id_sdk_ios-Swift.h"
+  requires objc
+}
