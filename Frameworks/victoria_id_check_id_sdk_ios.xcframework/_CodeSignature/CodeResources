@@ -6,39 +6,15 @@
 	<dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<data>
-		BX/CQEXfSXK+/MiESNzGdJnCKT8=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/Info.plist</key>
-		<data>
-		OmBBmtEvslgNHqUUqXim5/vbhZc=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/Info.plist</key>
-		<data>
-		y+GKiy8pjXgqhxZX7YFDnrshGqs=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<data>
-		CRHPKbASe5UZWqwd6AWzMMyeZOo=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		TrRzpkxcmDwPf9xXhrQKnuRceyI=
+		6ZI/L5mKjjU/HnU355rGKIw9/d0=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
-		VxVZnwfPTwcF96YNWFSV0IK8D1o=
+		XQLq6QcFAB96QW44KOv8ZpiRtQI=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<data>
-		U6zdRRWpDL9wCUU6aIf5kqckVsY=
+		0mr1pHYwwcIQXSjZsNBASEShDQA=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<data>
@@ -46,37 +22,29 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Fgy28yvvjKcQDH8wCTr7GXjgB0E=
+		8N5+HUgpXEzrtEv3me8hl4JKaik=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		6emm3WzFY9eEx4vXqKDIEDeXXiI=
+		KCJ20AH0NP9Xfgw9MGzN9F41uVc=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		j+XEZuCrizHVbg3Vh6nXvC3MQKQ=
+		sJLqIjDT/WFHSGiei9BbcJrgIOA=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		6emm3WzFY9eEx4vXqKDIEDeXXiI=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/Info.plist</key>
-		<data>
-		E2hkD254v3e3bTikz3pAPCK6heY=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ucg9pita0v8d353x3NuGfxweQYU=
+		KCJ20AH0NP9Xfgw9MGzN9F41uVc=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		JRZyqeo8049j0C2JmMLt10hsjQs=
+		odQEFINREmZoKL/rvaXjC49pfUQ=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rHYT3dI/2EumReud8nHAeh2V14M=
+			ls6cdrt5b6wpCa7mOXFwlDv5Y10=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -85,7 +53,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sZlU7PLEFZVZhGIZUgSYs7EdGgg=
+			XEzyto2XQ7JBedbGLkP/jjxtBXM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -94,7 +62,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jg/oGZuT9+WHc+XWRcnMsTmFS5o=
+			qtKUhWbxz9atPgu2gjaZOkvP8ac=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -106,14 +74,6 @@
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/mrz_animation.mp4</key>
 		<data>
 		xBd+fp5byblLcRPRVlcEgaEEFpY=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/Info.plist</key>
-		<data>
-		ekO3Gsqvg1yTIOnZx0pWAcEZliE=
-		</data>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		KY5lfwC2TvsgFj4wt7hkMmainbs=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nfc_animation_id_card_ios.mp4</key>
 		<data>
@@ -127,7 +87,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tPm3MKR5uvuTN3hMWvo3y7kgVsU=
+			oqEKYVrv1R9SNEnQYbDVRpd7p+c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -150,264 +110,158 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<data>
-		Khw0XdLHmn9WVXLLaAGZcRN/3kk=
+		UzuJVm5KAjYfXO+k4y3T7DAdsg8=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<data>
-		BX/CQEXfSXK+/MiESNzGdJnCKT8=
+		6ZI/L5mKjjU/HnU355rGKIw9/d0=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
-		m7TTnM2lqdTzLOEGHYX4O7v+em0=
+		9Kc325UqJnQvEa2jbqtawP3+zAU=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
+		6AkEHA6tAE6zFmsYBldI33YUJx8=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/Info.plist</key>
-		<data>
-		X1tUsVq+Xbtf48fA7rMBsvWQ+MQ=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<data>
-		yi+G4Ek+5ch4mcqeSuIVqw63JSQ=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		TrRzpkxcmDwPf9xXhrQKnuRceyI=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
-		<data>
-		rpOgT9l73drhRjriXOb6DehBRQM=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
-		<data>
-		UvMIyk0d0U1UIWt5/Ij4QhEztWY=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<data>
 		UwQ/KrnfztUggIBVvj+8gHnHtg0=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CPNy0gF2A/LoskNuYQvfs5zwwuo=
+		d/3rVoF01cWwGsPSbY94OzgSvqE=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ZWaIqKGj+TnrZkUY1ZmTm8VxAto=
+		RH172N3kP73NRrrGmZjQakLWxdQ=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jdCtN/+yf/QqDWH5evYTCn/PQ9o=
+		gT3g/bAVddTO2/WXh1jQUzDLhsw=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ZWaIqKGj+TnrZkUY1ZmTm8VxAto=
+		RH172N3kP73NRrrGmZjQakLWxdQ=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		90VFMungBHsD7xDeFqfAYZ1IODc=
+		d/3rVoF01cWwGsPSbY94OzgSvqE=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ucg9pita0v8d353x3NuGfxweQYU=
+		dCWGLHBap2ZdFmDdEneP9dLhCxo=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		di0pMcXYC2ImauyDDeKnlum3Xz0=
+		27IQ/JMC9gA2zoDqhs+w5+ZqZlU=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		dCWGLHBap2ZdFmDdEneP9dLhCxo=
+		</data>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
+		<data>
+		61nd8WR+2YqNf86XYIPxF8BSG/8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rHYT3dI/2EumReud8nHAeh2V14M=
+			ls6cdrt5b6wpCa7mOXFwlDv5Y10=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/en.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sZlU7PLEFZVZhGIZUgSYs7EdGgg=
+			XEzyto2XQ7JBedbGLkP/jjxtBXM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/fr.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/fr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jg/oGZuT9+WHc+XWRcnMsTmFS5o=
+			qtKUhWbxz9atPgu2gjaZOkvP8ac=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/liveness.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/liveness.mp4</key>
 		<data>
 		pDjhAcfHCLeEzOIRgmmLFc9O5do=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/mrz_animation.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/mrz_animation.mp4</key>
 		<data>
 		xBd+fp5byblLcRPRVlcEgaEEFpY=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/Info.plist</key>
-		<data>
-		iDIT8dmwBmj6a6ZPNK9Gm1HO9rU=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		KY5lfwC2TvsgFj4wt7hkMmainbs=
-		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_id_card_ios.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_id_card_ios.mp4</key>
 		<data>
 		OgOSGofiv2trMiZX4tfe3BIm4Uo=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_passport_recto_ios.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_passport_recto_ios.mp4</key>
 		<data>
 		fCQxDOC23iodOeebqRq39NdSUB0=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nl.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nl.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tPm3MKR5uvuTN3hMWvo3y7kgVsU=
+			oqEKYVrv1R9SNEnQYbDVRpd7p+c=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_id_card.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_id_card.mp4</key>
 		<data>
 		Woav0MgN9J3QPIp/BCscM8LSVOE=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_passport.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_passport.mp4</key>
 		<data>
 		0DyGairkWeX3Lmg0M9o+yTwMbPo=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/osd.traineddata</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/osd.traineddata</key>
 		<data>
 		KNNBJzp9FCuRIVRYx19bzHfoD00=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/victoria_id_check_id_mrz.traineddata</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/victoria_id_check_id_mrz.traineddata</key>
 		<data>
 		ZGg4itj3nHxLwYmh/dt+T2dRx5c=
 		</data>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<data>
-		yXyU53JGgNIJSQADXQwEVA43D0c=
+		f1LoMdoLGhJFgmLhM86wuWdouLw=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BX/CQEXfSXK+/MiESNzGdJnCKT8=
-			</data>
 			<key>hash2</key>
 			<data>
-			G8VhjycjMm5ZDM0JmdEiPyqlCbratSnBdM/apbujQdM=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OmBBmtEvslgNHqUUqXim5/vbhZc=
-			</data>
-			<key>hash2</key>
-			<data>
-			5ijNHaPDWszXsyCTaFNqqGN4roPRZR9d8gKk/mCVwfY=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-			</data>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y+GKiy8pjXgqhxZX7YFDnrshGqs=
-			</data>
-			<key>hash2</key>
-			<data>
-			A49ql5ScXM45X2RscpazxmD+LZ32lSdtumB5BXJ+kWo=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-			</data>
-			<key>hash2</key>
-			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CRHPKbASe5UZWqwd6AWzMMyeZOo=
-			</data>
-			<key>hash2</key>
-			<data>
-			rLs/I5AgiYITr+7TkWu/yORofvSdxug19BHkEHTu3JI=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TrRzpkxcmDwPf9xXhrQKnuRceyI=
-			</data>
-			<key>hash2</key>
-			<data>
-			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
+			6CtSdgzdVpQHkoLJMEpW62l/TFjvTtIxaDv0+mwl2bY=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VxVZnwfPTwcF96YNWFSV0IK8D1o=
-			</data>
 			<key>hash2</key>
 			<data>
-			vvdGgsgsrjZYbkgdUqM9OZULcrVDrc/GyUf/I4pnJ2g=
+			NtjB3jKfOLhm8njqRAUzighQzxjNFcJNLSQSVrlHsKo=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U6zdRRWpDL9wCUU6aIf5kqckVsY=
-			</data>
 			<key>hash2</key>
 			<data>
-			pZS8wLvnXld58O3CMw3EA2gjKgbs0iDZbYmvVIkOkpY=
+			oIZX3tNyFttLJF/6cH3H/lkzJFlpBbbugQ7GrZM6gUI=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UwQ/KrnfztUggIBVvj+8gHnHtg0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hnl7LxKm5EeTf5DHLhfgsde/gKIyDcUoNdj3d+KbDfo=
@@ -415,126 +269,68 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fgy28yvvjKcQDH8wCTr7GXjgB0E=
-			</data>
 			<key>hash2</key>
 			<data>
-			/vppoinly5115KhCmCiQGc/Sj9pm1PyUEZ1NTbZxPEE=
+			F64m5qrsFyMP0cy568fhyr+xi4zeFXw5oTjNv6/8dnA=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6emm3WzFY9eEx4vXqKDIEDeXXiI=
-			</data>
 			<key>hash2</key>
 			<data>
-			qImcowNYvlr7baGp0cjeUHrSMubkZUQcBUS30qeO8JU=
+			/D5fTcVVkfereFimF2WMLIdEAxNoxcTkSrRatjn8Udc=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j+XEZuCrizHVbg3Vh6nXvC3MQKQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			jlej2BOa/PJugJN2Zby3vxN4z5/Lidlg2e9ExJU3+xI=
+			IIOLVirjfN/DFPLS7d/zcam9d3H5m8lhq095w2om7ro=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6emm3WzFY9eEx4vXqKDIEDeXXiI=
-			</data>
 			<key>hash2</key>
 			<data>
-			qImcowNYvlr7baGp0cjeUHrSMubkZUQcBUS30qeO8JU=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E2hkD254v3e3bTikz3pAPCK6heY=
-			</data>
-			<key>hash2</key>
-			<data>
-			JMhq/lBGG4aBc8yib6hKOQhxzTfHsA6kxKAYR7Ixgc8=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ucg9pita0v8d353x3NuGfxweQYU=
-			</data>
-			<key>hash2</key>
-			<data>
-			Uh6274Qwdz5cAQ4YOP6d2PpdYre3bRzqjX2NqtyxROI=
+			/D5fTcVVkfereFimF2WMLIdEAxNoxcTkSrRatjn8Udc=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JRZyqeo8049j0C2JmMLt10hsjQs=
-			</data>
 			<key>hash2</key>
 			<data>
-			2cV1MKIu7isyibhslLkzVeyaV+0xdHj8EIjhKiMkR1A=
+			sgx5k+gTAbJJd/2g8XomDdWKSnfvD7Rbu9maA0HaTek=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rHYT3dI/2EumReud8nHAeh2V14M=
-			</data>
 			<key>hash2</key>
 			<data>
-			+OjW+x+gux6ZjPxlAhwkdwEpLFMcumW/c7Knq0E9wOc=
+			EaSOdf6xmsjUaxSBPIFD+XFi8sHrHeY5bMN06Y2UBgk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sZlU7PLEFZVZhGIZUgSYs7EdGgg=
-			</data>
 			<key>hash2</key>
 			<data>
-			5CD2CHKbN4MrJHoJtbNw6rEp9jhAijnrmoZmwrpUn+U=
+			WbWVIfXB6oLTYJUYfobSO2mMFQohbZpVMkEd258DKnU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/fr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jg/oGZuT9+WHc+XWRcnMsTmFS5o=
-			</data>
 			<key>hash2</key>
 			<data>
-			Q6uWMfslylWy4bF3xo27sHGduBH3WWu7BEvl8yUqB1Y=
+			H0S4ustyxfGtz4uRF8SoF23Ess4AodxegwtkDWXKRZE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/liveness.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pDjhAcfHCLeEzOIRgmmLFc9O5do=
-			</data>
 			<key>hash2</key>
 			<data>
 			RmsqlIUWRu96/WiBuSWI3PhkLmhGCoC3GQEQ3nRaF8I=
@@ -542,43 +338,13 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/mrz_animation.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xBd+fp5byblLcRPRVlcEgaEEFpY=
-			</data>
 			<key>hash2</key>
 			<data>
 			T7AjJCK/4awRJhRg92tAuYv3425K7CR5NJ1WKWTMx+8=
 			</data>
 		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ekO3Gsqvg1yTIOnZx0pWAcEZliE=
-			</data>
-			<key>hash2</key>
-			<data>
-			6xahvPhGiIk8scbfeUfJ11ML+7bx++4eaGG4MlXRCnc=
-			</data>
-		</dict>
-		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KY5lfwC2TvsgFj4wt7hkMmainbs=
-			</data>
-			<key>hash2</key>
-			<data>
-			cpujy9D0WMeM1h7fFzUO2v4ONMqG4xTsZMjLIszSG1Q=
-			</data>
-		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nfc_animation_id_card_ios.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OgOSGofiv2trMiZX4tfe3BIm4Uo=
-			</data>
 			<key>hash2</key>
 			<data>
 			fOaQnbNc29g9Karj0S/DDYTojYiljfThJB5Hlh4SE5s=
@@ -586,10 +352,6 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nfc_animation_passport_recto_ios.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fCQxDOC23iodOeebqRq39NdSUB0=
-			</data>
 			<key>hash2</key>
 			<data>
 			4u2Gv6VXaXYvuQw4o1TKs+3rLtTAkarHjC9RuXRH4q0=
@@ -597,23 +359,15 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/nl.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tPm3MKR5uvuTN3hMWvo3y7kgVsU=
-			</data>
 			<key>hash2</key>
 			<data>
-			KU/x5u/G2ytB98ARfGn3UdISTuknz49iTMAFIGWEOek=
+			yVTCkTJ8ye+qbi1Ics0piu3SosLVrwvW2BoWF9Zp+y0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/td_contra_animation_id_card.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Woav0MgN9J3QPIp/BCscM8LSVOE=
-			</data>
 			<key>hash2</key>
 			<data>
 			uIVCIkP0z3BFid/PVWK5PgkUptS/K9uIetcaAIw59Ns=
@@ -621,10 +375,6 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/td_contra_animation_passport.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0DyGairkWeX3Lmg0M9o+yTwMbPo=
-			</data>
 			<key>hash2</key>
 			<data>
 			NK+KFPiKtcKSvJILrPfNOoM9pgMvfIBmZH4auanP5tU=
@@ -632,10 +382,6 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/tessdata/osd.traineddata</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KNNBJzp9FCuRIVRYx19bzHfoD00=
-			</data>
 			<key>hash2</key>
 			<data>
 			4Z8q6GB5L983LPSNjOcK5do8QFKWL+IuneH2gMN0uw4=
@@ -643,10 +389,6 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/tessdata/victoria_id_check_id_mrz.traineddata</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZGg4itj3nHxLwYmh/dt+T2dRx5c=
-			</data>
 			<key>hash2</key>
 			<data>
 			ICNg4N31raVHshwdoqTwmsb8nLA16NHiSA7N2nm8RVQ=
@@ -654,373 +396,199 @@
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Khw0XdLHmn9WVXLLaAGZcRN/3kk=
-			</data>
 			<key>hash2</key>
 			<data>
-			mDfGqpxmKe1/grLPKOOLZ45r7mgsiMf7i4LkY1trzxY=
+			8XhsojcY9OzK270GSlNyh/hFUAPojzeoQMhy6khaLBo=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BX/CQEXfSXK+/MiESNzGdJnCKT8=
-			</data>
 			<key>hash2</key>
 			<data>
-			G8VhjycjMm5ZDM0JmdEiPyqlCbratSnBdM/apbujQdM=
+			6CtSdgzdVpQHkoLJMEpW62l/TFjvTtIxaDv0+mwl2bY=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m7TTnM2lqdTzLOEGHYX4O7v+em0=
-			</data>
 			<key>hash2</key>
 			<data>
-			TsIs+5+rpKC33bA1IWdLKtW2fGFE6dtqrPIkQXzwfIg=
+			ZieXqPSJnNtdGViA0BsSstUMnReJ1heFyqlQ1eCu3YQ=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-			</data>
 			<key>hash2</key>
 			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
+			ulOro77VCKk4Q2LSXlk72UZiRhCt2AFYbJKnc4AoFuY=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X1tUsVq+Xbtf48fA7rMBsvWQ+MQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			S9sWsS0KifkA6VhS4qHAuPuNSDhecvtxIZjfX1MGtmY=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-			</data>
-			<key>hash2</key>
-			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yi+G4Ek+5ch4mcqeSuIVqw63JSQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			De0zehk1y1mqx00pc5JMA6X+DDf1um28XXFHZwlyNtw=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TrRzpkxcmDwPf9xXhrQKnuRceyI=
-			</data>
-			<key>hash2</key>
-			<data>
-			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			rpOgT9l73drhRjriXOb6DehBRQM=
-			</data>
-			<key>hash2</key>
-			<data>
-			LCp75qYEGsMIJdxhLfrD7ZBuWGzM+XS47y0ZO/p8zUE=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UvMIyk0d0U1UIWt5/Ij4QhEztWY=
-			</data>
-			<key>hash2</key>
-			<data>
-			tXXRQAkA+qbXHKu7P0FupuSVbTz8JiKiVUlnJTg24oQ=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UwQ/KrnfztUggIBVvj+8gHnHtg0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hnl7LxKm5EeTf5DHLhfgsde/gKIyDcUoNdj3d+KbDfo=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CPNy0gF2A/LoskNuYQvfs5zwwuo=
-			</data>
 			<key>hash2</key>
 			<data>
-			0AvhXm7r8Wb2hu5Al1HeIYV21t03dZjuckU92P91oJ0=
+			cbycfWV2v/tD7R1SlfysI6m4WkpKfFb4JDTauVMCwIU=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZWaIqKGj+TnrZkUY1ZmTm8VxAto=
-			</data>
 			<key>hash2</key>
 			<data>
-			aVrQjDRpLKYOfOb5ZkKPlJblYBYwb7hlRWA69HNPEpQ=
+			sSw764oxYfzYTVSqNvaJpAjY5RNH/gM/OhhqwEwweo0=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jdCtN/+yf/QqDWH5evYTCn/PQ9o=
-			</data>
 			<key>hash2</key>
 			<data>
-			Qhlg0HhMtvtfi7A/X6jly+G9JVlRxM9PROyihTQuvMk=
+			AFKfHnkweB4gf7jH9Tz332oTZdnIDQZdUaH9Z1pO3Dw=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZWaIqKGj+TnrZkUY1ZmTm8VxAto=
-			</data>
 			<key>hash2</key>
 			<data>
-			aVrQjDRpLKYOfOb5ZkKPlJblYBYwb7hlRWA69HNPEpQ=
+			sSw764oxYfzYTVSqNvaJpAjY5RNH/gM/OhhqwEwweo0=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			90VFMungBHsD7xDeFqfAYZ1IODc=
-			</data>
 			<key>hash2</key>
 			<data>
-			S8p0O/vq5QG7cWe7/9T/Q3E3Qxdwn27I4z7Wek2ETGo=
+			cbycfWV2v/tD7R1SlfysI6m4WkpKfFb4JDTauVMCwIU=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ucg9pita0v8d353x3NuGfxweQYU=
-			</data>
 			<key>hash2</key>
 			<data>
-			Uh6274Qwdz5cAQ4YOP6d2PpdYre3bRzqjX2NqtyxROI=
+			JOrY0mEEjep/6WL1FGG194I/sVdK/KuajCkq4+4tob4=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			di0pMcXYC2ImauyDDeKnlum3Xz0=
-			</data>
 			<key>hash2</key>
 			<data>
-			Lk/wHSD6qNkz3n1CrBl0zIIFuZcKp/xQNFa3YrD3M7w=
+			4sQDgxKhhEyoG0gnDWjcqhM0aSngSe2ysGiq73tWrtw=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rHYT3dI/2EumReud8nHAeh2V14M=
-			</data>
 			<key>hash2</key>
 			<data>
-			+OjW+x+gux6ZjPxlAhwkdwEpLFMcumW/c7Knq0E9wOc=
+			JOrY0mEEjep/6WL1FGG194I/sVdK/KuajCkq4+4tob4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ekqFgsuCOWas+nUuXmVf+b5/nPaFRxFox78lvxXM5+8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EaSOdf6xmsjUaxSBPIFD+XFi8sHrHeY5bMN06Y2UBgk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/en.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sZlU7PLEFZVZhGIZUgSYs7EdGgg=
-			</data>
 			<key>hash2</key>
 			<data>
-			5CD2CHKbN4MrJHoJtbNw6rEp9jhAijnrmoZmwrpUn+U=
+			WbWVIfXB6oLTYJUYfobSO2mMFQohbZpVMkEd258DKnU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/fr.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/fr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jg/oGZuT9+WHc+XWRcnMsTmFS5o=
-			</data>
 			<key>hash2</key>
 			<data>
-			Q6uWMfslylWy4bF3xo27sHGduBH3WWu7BEvl8yUqB1Y=
+			H0S4ustyxfGtz4uRF8SoF23Ess4AodxegwtkDWXKRZE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/liveness.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/liveness.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pDjhAcfHCLeEzOIRgmmLFc9O5do=
-			</data>
 			<key>hash2</key>
 			<data>
 			RmsqlIUWRu96/WiBuSWI3PhkLmhGCoC3GQEQ3nRaF8I=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/mrz_animation.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/mrz_animation.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xBd+fp5byblLcRPRVlcEgaEEFpY=
-			</data>
 			<key>hash2</key>
 			<data>
 			T7AjJCK/4awRJhRg92tAuYv3425K7CR5NJ1WKWTMx+8=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_id_card_ios.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iDIT8dmwBmj6a6ZPNK9Gm1HO9rU=
-			</data>
-			<key>hash2</key>
-			<data>
-			E2tMeJgRrc2kVx7sGBvrdKIv4JG3HAelUNubkR9Bmbo=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KY5lfwC2TvsgFj4wt7hkMmainbs=
-			</data>
-			<key>hash2</key>
-			<data>
-			cpujy9D0WMeM1h7fFzUO2v4ONMqG4xTsZMjLIszSG1Q=
-			</data>
-		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_id_card_ios.mp4</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OgOSGofiv2trMiZX4tfe3BIm4Uo=
-			</data>
 			<key>hash2</key>
 			<data>
 			fOaQnbNc29g9Karj0S/DDYTojYiljfThJB5Hlh4SE5s=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_passport_recto_ios.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nfc_animation_passport_recto_ios.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fCQxDOC23iodOeebqRq39NdSUB0=
-			</data>
 			<key>hash2</key>
 			<data>
 			4u2Gv6VXaXYvuQw4o1TKs+3rLtTAkarHjC9RuXRH4q0=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nl.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/nl.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tPm3MKR5uvuTN3hMWvo3y7kgVsU=
-			</data>
 			<key>hash2</key>
 			<data>
-			KU/x5u/G2ytB98ARfGn3UdISTuknz49iTMAFIGWEOek=
+			yVTCkTJ8ye+qbi1Ics0piu3SosLVrwvW2BoWF9Zp+y0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_id_card.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_id_card.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Woav0MgN9J3QPIp/BCscM8LSVOE=
-			</data>
 			<key>hash2</key>
 			<data>
 			uIVCIkP0z3BFid/PVWK5PgkUptS/K9uIetcaAIw59Ns=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_passport.mp4</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/td_contra_animation_passport.mp4</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0DyGairkWeX3Lmg0M9o+yTwMbPo=
-			</data>
 			<key>hash2</key>
 			<data>
 			NK+KFPiKtcKSvJILrPfNOoM9pgMvfIBmZH4auanP5tU=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/osd.traineddata</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/osd.traineddata</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KNNBJzp9FCuRIVRYx19bzHfoD00=
-			</data>
 			<key>hash2</key>
 			<data>
 			4Z8q6GB5L983LPSNjOcK5do8QFKWL+IuneH2gMN0uw4=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/victoria_id_check_id_mrz.traineddata</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/tessdata/victoria_id_check_id_mrz.traineddata</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZGg4itj3nHxLwYmh/dt+T2dRx5c=
-			</data>
 			<key>hash2</key>
 			<data>
 			ICNg4N31raVHshwdoqTwmsb8nLA16NHiSA7N2nm8RVQ=
 			</data>
 		</dict>
-		<key>ios-x86_64-simulator/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
+		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yXyU53JGgNIJSQADXQwEVA43D0c=
-			</data>
 			<key>hash2</key>
 			<data>
-			UobdKV2PSjQI5ZwBE3fftnagCXngwMt88dfjtHymC9U=
+			7J7mjP09vt/E/uFqYq3QNTZdWXLHQyqZ6e7Pad/iH9Q=
 			</data>
 		</dict>
 	</dict>

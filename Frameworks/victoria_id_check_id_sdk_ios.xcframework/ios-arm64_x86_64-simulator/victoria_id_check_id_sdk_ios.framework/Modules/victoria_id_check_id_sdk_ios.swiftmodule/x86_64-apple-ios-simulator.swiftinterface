@@ -1,0 +1,68 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name victoria_id_check_id_sdk_ios
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import AVFoundation
+import AVKit
+import Combine
+import CoreGraphics
+import CoreImage
+import CoreNFC
+import DeveloperToolsSupport
+import Foundation
+import Swift
+import SwiftUI
+import UIKit
+import Vision
+import _AVKit_SwiftUI
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum ID_Check_Result_Code {
+  case exception_api_url
+  case exception_api_data
+  case exception_generic
+  case success
+  case feature_not_found_camera
+  case feature_not_found_nfc
+  case data_share_decline
+  public static func == (a: victoria_id_check_id_sdk_ios.ID_Check_Result_Code, b: victoria_id_check_id_sdk_ios.ID_Check_Result_Code) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_Concurrency.MainActor @preconcurrency public struct Root<Content> : SwiftUICore.View where Content : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(_ content: Content)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios4RootV4bodyQrvp", 0) __<Content>
+}
+@_Concurrency.MainActor @preconcurrency public struct Button_Capsule<Content> : SwiftUICore.View where Content : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init(@SwiftUICore.ViewBuilder _ content: @escaping () -> Content, action: @escaping () -> Swift.Void, outline: Swift.Bool = false)
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios14Button_CapsuleV4bodyQrvp", 0) __<Content>
+}
+@_hasMissingDesignatedInitializers public class MRZ_Detector {
+  @objc deinit
+}
+public enum ID_Check_Event_Code {
+  case screen_entered(Swift.String)
+}
+@_Concurrency.MainActor @preconcurrency public struct Victoria_ID_Check_ID_SDK<Content> : SwiftUICore.View where Content : SwiftUICore.View {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public init(isPresented: SwiftUICore.Binding<Swift.Bool> = .constant(true), onCompletion: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Result_Code?) -> Swift.Void = {_ in}, api_uri: Swift.String = "", color_primary: SwiftUICore.Color? = nil, color_secondary: SwiftUICore.Color? = nil, color_tertiary: SwiftUICore.Color? = nil, font_color: SwiftUICore.Color? = nil, background_color: SwiftUICore.Color? = nil, onEvent: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Event_Code?) -> Swift.Void = {_ in}, continuous_flow: Swift.Bool = false, cover_fullscreen_visible: SwiftUICore.Binding<Swift.Bool> = .constant(false), @SwiftUICore.ViewBuilder cover_fullscreen: @escaping () -> Content = { EmptyView() })
+  #endif
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios018Victoria_ID_Check_G4_SDKV4bodyQrvp", 0) __<Content>
+}
+extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Equatable {}
+extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Hashable {}
+extension victoria_id_check_id_sdk_ios.Root : Swift.Sendable {}
+extension victoria_id_check_id_sdk_ios.Button_Capsule : Swift.Sendable {}
+extension victoria_id_check_id_sdk_ios.Victoria_ID_Check_ID_SDK : Swift.Sendable {}

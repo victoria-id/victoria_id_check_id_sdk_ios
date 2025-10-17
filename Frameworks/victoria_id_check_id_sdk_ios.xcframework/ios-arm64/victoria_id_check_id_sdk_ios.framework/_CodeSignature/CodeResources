@@ -6,39 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		BX/CQEXfSXK+/MiESNzGdJnCKT8=
-		</data>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<data>
-		OmBBmtEvslgNHqUUqXim5/vbhZc=
-		</data>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
-		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
-		<data>
-		y+GKiy8pjXgqhxZX7YFDnrshGqs=
-		</data>
-		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-		</data>
-		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<data>
-		CRHPKbASe5UZWqwd6AWzMMyeZOo=
-		</data>
-		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		TrRzpkxcmDwPf9xXhrQKnuRceyI=
+		6ZI/L5mKjjU/HnU355rGKIw9/d0=
 		</data>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
-		VxVZnwfPTwcF96YNWFSV0IK8D1o=
+		XQLq6QcFAB96QW44KOv8ZpiRtQI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		U6zdRRWpDL9wCUU6aIf5kqckVsY=
+		0mr1pHYwwcIQXSjZsNBASEShDQA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,37 +22,29 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Fgy28yvvjKcQDH8wCTr7GXjgB0E=
+		8N5+HUgpXEzrtEv3me8hl4JKaik=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		6emm3WzFY9eEx4vXqKDIEDeXXiI=
+		KCJ20AH0NP9Xfgw9MGzN9F41uVc=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		j+XEZuCrizHVbg3Vh6nXvC3MQKQ=
+		sJLqIjDT/WFHSGiei9BbcJrgIOA=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		6emm3WzFY9eEx4vXqKDIEDeXXiI=
+		KCJ20AH0NP9Xfgw9MGzN9F41uVc=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		X3pAXoAJJRIlxbLNJusLrn1dY9k=
-		</data>
-		<key>Protobuf_Privacy.bundle/Info.plist</key>
-		<data>
-		E2hkD254v3e3bTikz3pAPCK6heY=
-		</data>
-		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ucg9pita0v8d353x3NuGfxweQYU=
+		PPEyW+TmVis4HwliYnHGQF9i4NM=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rHYT3dI/2EumReud8nHAeh2V14M=
+			ls6cdrt5b6wpCa7mOXFwlDv5Y10=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -85,7 +53,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sZlU7PLEFZVZhGIZUgSYs7EdGgg=
+			XEzyto2XQ7JBedbGLkP/jjxtBXM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -94,7 +62,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jg/oGZuT9+WHc+XWRcnMsTmFS5o=
+			qtKUhWbxz9atPgu2gjaZOkvP8ac=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -106,14 +74,6 @@
 		<key>mrz_animation.mp4</key>
 		<data>
 		xBd+fp5byblLcRPRVlcEgaEEFpY=
-		</data>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<data>
-		ekO3Gsqvg1yTIOnZx0pWAcEZliE=
-		</data>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		KY5lfwC2TvsgFj4wt7hkMmainbs=
 		</data>
 		<key>nfc_animation_id_card_ios.mp4</key>
 		<data>
@@ -127,7 +87,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tPm3MKR5uvuTN3hMWvo3y7kgVsU=
+			oqEKYVrv1R9SNEnQYbDVRpd7p+c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -155,56 +115,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G8VhjycjMm5ZDM0JmdEiPyqlCbratSnBdM/apbujQdM=
-			</data>
-		</dict>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5ijNHaPDWszXsyCTaFNqqGN4roPRZR9d8gKk/mCVwfY=
-			</data>
-		</dict>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
-		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			A49ql5ScXM45X2RscpazxmD+LZ32lSdtumB5BXJ+kWo=
-			</data>
-		</dict>
-		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
-			</data>
-		</dict>
-		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rLs/I5AgiYITr+7TkWu/yORofvSdxug19BHkEHTu3JI=
-			</data>
-		</dict>
-		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
+			6CtSdgzdVpQHkoLJMEpW62l/TFjvTtIxaDv0+mwl2bY=
 			</data>
 		</dict>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vvdGgsgsrjZYbkgdUqM9OZULcrVDrc/GyUf/I4pnJ2g=
+			NtjB3jKfOLhm8njqRAUzighQzxjNFcJNLSQSVrlHsKo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -218,56 +136,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/vppoinly5115KhCmCiQGc/Sj9pm1PyUEZ1NTbZxPEE=
+			F64m5qrsFyMP0cy568fhyr+xi4zeFXw5oTjNv6/8dnA=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qImcowNYvlr7baGp0cjeUHrSMubkZUQcBUS30qeO8JU=
+			/D5fTcVVkfereFimF2WMLIdEAxNoxcTkSrRatjn8Udc=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jlej2BOa/PJugJN2Zby3vxN4z5/Lidlg2e9ExJU3+xI=
+			IIOLVirjfN/DFPLS7d/zcam9d3H5m8lhq095w2om7ro=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qImcowNYvlr7baGp0cjeUHrSMubkZUQcBUS30qeO8JU=
+			/D5fTcVVkfereFimF2WMLIdEAxNoxcTkSrRatjn8Udc=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zNZ4h9un8f+VqIzfKP9NQtuahbESGFzjYL4/+8Jp3Hg=
-			</data>
-		</dict>
-		<key>Protobuf_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JMhq/lBGG4aBc8yib6hKOQhxzTfHsA6kxKAYR7Ixgc8=
-			</data>
-		</dict>
-		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Uh6274Qwdz5cAQ4YOP6d2PpdYre3bRzqjX2NqtyxROI=
+			0+isq5sTnl/dAi0EiyTDUtqltT+KXfyej9dlp4bwB7w=
 			</data>
 		</dict>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+OjW+x+gux6ZjPxlAhwkdwEpLFMcumW/c7Knq0E9wOc=
+			EaSOdf6xmsjUaxSBPIFD+XFi8sHrHeY5bMN06Y2UBgk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -276,7 +180,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5CD2CHKbN4MrJHoJtbNw6rEp9jhAijnrmoZmwrpUn+U=
+			WbWVIfXB6oLTYJUYfobSO2mMFQohbZpVMkEd258DKnU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -285,7 +189,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q6uWMfslylWy4bF3xo27sHGduBH3WWu7BEvl8yUqB1Y=
+			H0S4ustyxfGtz4uRF8SoF23Ess4AodxegwtkDWXKRZE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -302,20 +206,6 @@
 			<key>hash2</key>
 			<data>
 			T7AjJCK/4awRJhRg92tAuYv3425K7CR5NJ1WKWTMx+8=
-			</data>
-		</dict>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6xahvPhGiIk8scbfeUfJ11ML+7bx++4eaGG4MlXRCnc=
-			</data>
-		</dict>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cpujy9D0WMeM1h7fFzUO2v4ONMqG4xTsZMjLIszSG1Q=
 			</data>
 		</dict>
 		<key>nfc_animation_id_card_ios.mp4</key>
@@ -336,7 +226,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KU/x5u/G2ytB98ARfGn3UdISTuknz49iTMAFIGWEOek=
+			yVTCkTJ8ye+qbi1Ics0piu3SosLVrwvW2BoWF9Zp+y0=
 			</data>
 			<key>optional</key>
 			<true/>
