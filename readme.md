@@ -118,12 +118,11 @@ Victoria_ID_Check_ID_SDK(
     },
 
     /*
-    Provide the API URL (with token). If omitted, the SDK will display the QR code scanner step,
-    requiring the user to scan the QR code from the portal on a desktop computer.
+     Provide the API URL (with token).
 
-    Your API is expected to call `GET screenee/:screenee_id/check/identity/travel_document/text_chip_certificate/token/`
-    as described in the Victoria Connect API documentation at https://doc.api.victoria-id.com/#1f481ddb-3547-4c17-8ec4-e47dfd47fb71
-    to get the temporary token required for the API to start and finish the process.
+     Your API is expected to call `GET screenee/:screenee_id/check/identity/travel_document/text_chip_certificate/token/`
+      as described in the Victoria Connect API documentation at https://doc.api.victoria-id.com/#1f481ddb-3547-4c17-8ec4-e47dfd47fb71
+      to get the temporary token required for the API to start the process.
     */
     api_uri: "https://api.victoria-id.com/screenee/:screenee_id/check/identity/travel_document/text_chip_certificate/?domain=example.victoria-id.com&token=<token>",
 
