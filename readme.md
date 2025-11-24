@@ -1,8 +1,8 @@
-# Victoria ID - ID check - SDK - Documentation - iOS
+# Victoria-ID - ID check - SDK - Documentation - iOS
 
 ## Table of contents
 
-1. [Victoria ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
+1. [Victoria-ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
    1. [Table of contents](#table-of-contents)
    2. [Introduction](#introduction)
    3. [Adding the SDK to your project](#adding-the-sdk-to-your-project)
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This SDK contains the ID check from Victoria ID. It can be embedded in your application, which we will refer to as the "host application".
+This SDK contains the ID check from Victoria-ID. It can be embedded in your application, which we will refer to as the "host application".
 The SDK is designed to launch an activity that walks the user through multiple steps of the ID check. After completion, the SDK will return metadata to the host application, indicating the success or failure of the operation.
 
 
@@ -26,12 +26,12 @@ The SDK is designed to launch an activity that walks the user through multiple s
 #### Installing via Xcode
 
 1. Select `File` -> `Add Packages...` in the Xcode menu bar.
-2. Search for Victoria ID Check SDK package using the following URL:
+2. Search for the 'Victoria-ID - ID check - SDK' package using the following URL:
 
    ```
    https://github.com/victoria-id/victoria_id_check_id_sdk_ios
    ```
-3. Click _Add Package_ to add the SDK to your Xcode project and confirm.
+3. Click `[ Add package ]` to add the SDK to your Xcode project and confirm.
 
 #### Installing via Package.swift
 
