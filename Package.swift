@@ -15,9 +15,9 @@ let package = Package(
         .package(url: "https://github.com/victoria-id/Tesseract-OCR-iOS.git", branch: "v5.5"),
         .package(
             url: "https://github.com/iProov/ios-spm.git",
-            exact: "12.5.0"
+            exact: "13.0.0"
         ),
-        .package(url: "https://github.com/krzyzanowskim/OpenSSL.git", exact: "1.1.2301")
+        .package(url: "https://github.com/krzyzanowskim/OpenSSL.git", exact: "3.3.3001")
     ],
     targets: [
         .target(
