@@ -103,6 +103,239 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "ID_Check_Result",
+        "printedName": "ID_Check_Result",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ID_Check_Result",
+                "printedName": "victoria_id_check_id_sdk_ios.ID_Check_Result",
+                "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result(cpy)shared",
+            "mangledName": "$s018victoria_id_check_B8_sdk_ios15ID_Check_ResultC6sharedACvpZ",
+            "moduleName": "victoria_id_check_id_sdk_ios",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ID_Check_Result",
+                    "printedName": "victoria_id_check_id_sdk_ios.ID_Check_Result",
+                    "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result(cm)shared",
+                "mangledName": "$s018victoria_id_check_B8_sdk_ios15ID_Check_ResultC6sharedACvgZ",
+                "moduleName": "victoria_id_check_id_sdk_ios",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "nfc_success",
+            "printedName": "nfc_success",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result(py)nfc_success",
+            "mangledName": "$s018victoria_id_check_B8_sdk_ios15ID_Check_ResultC11nfc_successSbvp",
+            "moduleName": "victoria_id_check_id_sdk_ios",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result(im)nfc_success",
+                "mangledName": "$s018victoria_id_check_B8_sdk_ios15ID_Check_ResultC11nfc_successSbvg",
+                "moduleName": "victoria_id_check_id_sdk_ios",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result(im)setNfc_success:",
+                "mangledName": "$s018victoria_id_check_B8_sdk_ios15ID_Check_ResultC11nfc_successSbvs",
+                "moduleName": "victoria_id_check_id_sdk_ios",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:018victoria_id_check_B8_sdk_ios15ID_Check_ResultC11nfc_successSbvM",
+                "mangledName": "$s018victoria_id_check_B8_sdk_ios15ID_Check_ResultC11nfc_successSbvM",
+                "moduleName": "victoria_id_check_id_sdk_ios",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@victoria_id_check_id_sdk_ios@objc(cs)ID_Check_Result",
+        "mangledName": "$s018victoria_id_check_B8_sdk_ios15ID_Check_ResultC",
+        "moduleName": "victoria_id_check_id_sdk_ios",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "ID_Check_Result_Code",
         "printedName": "ID_Check_Result_Code",
         "children": [
@@ -1596,6 +1829,56 @@
             "usr": "s:018victoria_id_check_B8_sdk_ios19ID_Check_Event_CodeO14screen_enteredyACSScACmF",
             "mangledName": "$s018victoria_id_check_B8_sdk_ios19ID_Check_Event_CodeO14screen_enteredyACSScACmF",
             "moduleName": "victoria_id_check_id_sdk_ios"
+          },
+          {
+            "kind": "Var",
+            "name": "screen_stopped",
+            "printedName": "screen_stopped",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(victoria_id_check_id_sdk_ios.ID_Check_Event_Code.Type) -> (Swift.String) -> victoria_id_check_id_sdk_ios.ID_Check_Event_Code",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> victoria_id_check_id_sdk_ios.ID_Check_Event_Code",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ID_Check_Event_Code",
+                        "printedName": "victoria_id_check_id_sdk_ios.ID_Check_Event_Code",
+                        "usr": "s:018victoria_id_check_B8_sdk_ios19ID_Check_Event_CodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "victoria_id_check_id_sdk_ios.ID_Check_Event_Code.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ID_Check_Event_Code",
+                        "printedName": "victoria_id_check_id_sdk_ios.ID_Check_Event_Code",
+                        "usr": "s:018victoria_id_check_B8_sdk_ios19ID_Check_Event_CodeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:018victoria_id_check_B8_sdk_ios19ID_Check_Event_CodeO14screen_stoppedyACSScACmF",
+            "mangledName": "$s018victoria_id_check_B8_sdk_ios19ID_Check_Event_CodeO14screen_stoppedyACSScACmF",
+            "moduleName": "victoria_id_check_id_sdk_ios"
           }
         ],
         "declKind": "Enum",
@@ -2366,6 +2649,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Singleton\/ID_Check_Result.swift",
+      "kind": "BooleanLiteral",
+      "offset": 275,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/Start.swift",
       "kind": "BooleanLiteral",
       "offset": 613,
@@ -2473,7 +2763,7 @@
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/Liveness.swift",
       "kind": "StringLiteral",
-      "offset": 2104,
+      "offset": 2191,
       "length": 2,
       "value": "\"\""
     },
@@ -5098,175 +5388,175 @@
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 8300,
+      "offset": 8367,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "BooleanLiteral",
-      "offset": 8332,
+      "offset": 8399,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 8392,
+      "offset": 8459,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 8531,
+      "offset": 8598,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "FloatLiteral",
-      "offset": 8566,
+      "offset": 8633,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 8607,
+      "offset": 8674,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 8649,
+      "offset": 8716,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "FloatLiteral",
-      "offset": 8684,
+      "offset": 8751,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 8728,
+      "offset": 8795,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "BooleanLiteral",
-      "offset": 8768,
+      "offset": 8835,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 8859,
+      "offset": 8926,
       "length": 55,
       "value": "\"victoria_id_check_id_dialog_custom_cancel_button_text\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 9004,
+      "offset": 9071,
       "length": 51,
       "value": "\"victoria_id_check_id_dialog_custom_ok_button_text\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 10008,
+      "offset": 10075,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "BooleanLiteral",
-      "offset": 10040,
+      "offset": 10107,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 10100,
+      "offset": 10167,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 10239,
+      "offset": 10306,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "FloatLiteral",
-      "offset": 10274,
+      "offset": 10341,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 10315,
+      "offset": 10382,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 10357,
+      "offset": 10424,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "FloatLiteral",
-      "offset": 10392,
+      "offset": 10459,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "IntegerLiteral",
-      "offset": 10428,
+      "offset": 10495,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "BooleanLiteral",
-      "offset": 10459,
+      "offset": 10526,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "BooleanLiteral",
-      "offset": 10539,
+      "offset": 10606,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 10630,
+      "offset": 10697,
       "length": 55,
       "value": "\"victoria_id_check_id_dialog_custom_cancel_button_text\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/Component\/Dialog\/Dialog.swift",
       "kind": "StringLiteral",
-      "offset": 10775,
+      "offset": 10842,
       "length": 51,
       "value": "\"victoria_id_check_id_dialog_custom_ok_button_text\""
     },
@@ -5623,21 +5913,21 @@
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "StringLiteral",
-      "offset": 11586,
+      "offset": 11675,
       "length": 16,
       "value": "\"^[a-zA-Z0-9]*$\""
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "FloatLiteral",
-      "offset": 14042,
+      "offset": 14201,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/presentconnection\/Desktop\/rokas\/victoria-id\/victoria_id_check_id_ios\/victoria_id_check_id_sdk_ios\/victoria_id_check_id_sdk_ios\/UI\/MRZ_Reader.swift",
       "kind": "FloatLiteral",
-      "offset": 14089,
+      "offset": 14248,
       "length": 3,
       "value": "1.0"
     },

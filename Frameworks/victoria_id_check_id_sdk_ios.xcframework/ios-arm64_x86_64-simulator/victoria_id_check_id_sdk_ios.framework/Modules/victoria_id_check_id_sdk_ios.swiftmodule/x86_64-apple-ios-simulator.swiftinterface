@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
 // swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name victoria_id_check_id_sdk_ios
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
 import AVFoundation
 import AVKit
 import Combine
@@ -18,6 +18,11 @@ import _AVKit_SwiftUI
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objcMembers public class ID_Check_Result : ObjectiveC.NSObject {
+  @objc public static let shared: victoria_id_check_id_sdk_ios.ID_Check_Result
+  @objc public var nfc_success: Swift.Bool
+  @objc deinit
+}
 public enum ID_Check_Result_Code {
   case exception_api_url
   case exception_api_data
@@ -51,6 +56,7 @@ public enum ID_Check_Result_Code {
 }
 public enum ID_Check_Event_Code {
   case screen_entered(Swift.String)
+  case screen_stopped(Swift.String)
 }
 @_Concurrency.MainActor @preconcurrency public struct Victoria_ID_Check_ID_SDK<Content> : SwiftUICore.View where Content : SwiftUICore.View {
   #if compiler(>=5.3) && $NonescapableTypes
