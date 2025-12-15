@@ -84,14 +84,17 @@ For your convenience, we merged the code and this part of the documentation toge
 ```swift
 
 Victoria_ID_Check_ID_SDK(
-    isPresented: $blnSdk_Start,
+    isPresented: $blnVictoria_ID_Check_ID_SDK_Start,
     onCompletion: { result in
 
         // Prepare to process the result of the ID check SDK.
         switch result {
 
-        case .success:
-            print("ID check was successfully performed.")
+        case .feature_not_found_camera:
+            print("The device does not have a camera needed to scan a QR code and/or ID document.")
+
+        case .feature_not_found_nfc:
+            print("The device does not have NFC capability.")
 
         case .exception_api_url:
             print("The Victoria Connect API did not accept the API URL to be able to start the process.")
@@ -100,16 +103,21 @@ Victoria_ID_Check_ID_SDK(
             print("The Victoria Connect API did not accept the payload data to finish the process.")
 
         case .exception_generic:
-            print("Generic exception")
+            print("Generic exception.")
 
-        case .feature_not_found_camera:
-            alerter.alert = Alert(title: Text("sdk_return_camera_not_found_text"))
-
-        case .feature_not_found_nfc:
-            print("The device does not have NFC capability")
+        case .cancel:
+            print("User canceled ID check flow.")
 
         case .data_share_decline:
-            print("User declined to share data")
+            print("User declined to share data.")
+
+        case .success:
+            print("ID check was successfully performed.")
+
+            /*
+             Your API is expected to fetch the information directly from the Victoria Connect API using:
+              `GET group/:group_id/screening/:screening_id/screenee/:screenee_id/`.
+            */
 
         case .none:
             break
