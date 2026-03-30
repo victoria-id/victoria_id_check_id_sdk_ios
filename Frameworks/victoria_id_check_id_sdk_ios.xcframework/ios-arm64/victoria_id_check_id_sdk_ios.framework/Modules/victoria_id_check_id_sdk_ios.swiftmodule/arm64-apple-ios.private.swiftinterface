@@ -18,6 +18,11 @@ import _AVKit_SwiftUI
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objcMembers public class ID_Check_Result : ObjectiveC.NSObject {
+  @objc public static let shared: victoria_id_check_id_sdk_ios.ID_Check_Result
+  @objc public var nfc_success: Swift.Bool
+  @objc deinit
+}
 public enum ID_Check_Result_Code {
   case exception_api_url
   case exception_api_data
@@ -26,6 +31,7 @@ public enum ID_Check_Result_Code {
   case feature_not_found_camera
   case feature_not_found_nfc
   case data_share_decline
+  case cancel
   public static func == (a: victoria_id_check_id_sdk_ios.ID_Check_Result_Code, b: victoria_id_check_id_sdk_ios.ID_Check_Result_Code) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
@@ -39,6 +45,26 @@ public enum ID_Check_Result_Code {
   }
   public typealias Body = @_opaqueReturnTypeOf("$s018victoria_id_check_B8_sdk_ios4RootV4bodyQrvp", 0) __<Content>
 }
+public struct SDK_Presentation_Options {
+  public let canDismiss: Swift.Bool
+  public let dismiss: () -> Swift.Void
+  public init(canDismiss: Swift.Bool, dismiss: @escaping () -> Swift.Void)
+}
+extension SwiftUICore.EnvironmentValues {
+  public var sdkPresentation: victoria_id_check_id_sdk_ios.SDK_Presentation_Options {
+    get
+    set
+  }
+}
+public enum SDK_Host_Mode {
+  case embedded
+  case standalone
+  public static func == (a: victoria_id_check_id_sdk_ios.SDK_Host_Mode, b: victoria_id_check_id_sdk_ios.SDK_Host_Mode) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
 @_Concurrency.MainActor @preconcurrency public struct Button_Capsule<Content> : SwiftUICore.View where Content : SwiftUICore.View {
   @_Concurrency.MainActor @preconcurrency public init(@SwiftUICore.ViewBuilder _ content: @escaping () -> Content, action: @escaping () -> Swift.Void, outline: Swift.Bool = false)
   @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
@@ -51,10 +77,12 @@ public enum ID_Check_Result_Code {
 }
 public enum ID_Check_Event_Code {
   case screen_entered(Swift.String)
+  case screen_stopped(Swift.String)
+  case exception(Swift.String, [Swift.String : Swift.String])
 }
 @_Concurrency.MainActor @preconcurrency public struct Victoria_ID_Check_ID_SDK<Content> : SwiftUICore.View where Content : SwiftUICore.View {
   #if compiler(>=5.3) && $NonescapableTypes
-  @_Concurrency.MainActor @preconcurrency public init(isPresented: SwiftUICore.Binding<Swift.Bool> = .constant(true), onCompletion: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Result_Code?) -> Swift.Void = {_ in}, api_uri: Swift.String = "", color_primary: SwiftUICore.Color? = nil, color_secondary: SwiftUICore.Color? = nil, color_tertiary: SwiftUICore.Color? = nil, font_color: SwiftUICore.Color? = nil, background_color: SwiftUICore.Color? = nil, onEvent: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Event_Code?) -> Swift.Void = {_ in}, continuous_flow: Swift.Bool = false, cover_fullscreen_visible: SwiftUICore.Binding<Swift.Bool> = .constant(false), @SwiftUICore.ViewBuilder cover_fullscreen: @escaping () -> Content = { EmptyView() })
+  @_Concurrency.MainActor @preconcurrency public init(hostMode: victoria_id_check_id_sdk_ios.SDK_Host_Mode = .embedded, isPresented: SwiftUICore.Binding<Swift.Bool> = .constant(true), onCompletion: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Result_Code?) -> Swift.Void = {_ in}, api_uri: Swift.String = "", color_primary: SwiftUICore.Color? = nil, color_secondary: SwiftUICore.Color? = nil, color_tertiary: SwiftUICore.Color? = nil, font_color: SwiftUICore.Color? = nil, background_color: SwiftUICore.Color? = nil, onEvent: @escaping (victoria_id_check_id_sdk_ios.ID_Check_Event_Code?) -> Swift.Void = {_ in}, continuous_flow: Swift.Bool = false, cover_fullscreen_visible: SwiftUICore.Binding<Swift.Bool> = .constant(false), @SwiftUICore.ViewBuilder cover_fullscreen: @escaping () -> Content = { EmptyView() })
   #endif
   @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
@@ -64,5 +92,7 @@ public enum ID_Check_Event_Code {
 extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Equatable {}
 extension victoria_id_check_id_sdk_ios.ID_Check_Result_Code : Swift.Hashable {}
 extension victoria_id_check_id_sdk_ios.Root : Swift.Sendable {}
+extension victoria_id_check_id_sdk_ios.SDK_Host_Mode : Swift.Equatable {}
+extension victoria_id_check_id_sdk_ios.SDK_Host_Mode : Swift.Hashable {}
 extension victoria_id_check_id_sdk_ios.Button_Capsule : Swift.Sendable {}
 extension victoria_id_check_id_sdk_ios.Victoria_ID_Check_ID_SDK : Swift.Sendable {}

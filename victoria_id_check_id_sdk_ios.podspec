@@ -1,7 +1,7 @@
 Pod::Spec.new do |sdk|
 
   sdk.name             = 'victoria_id_check_id_sdk_ios'
-  sdk.version          = '1.12.0'
+  sdk.version          = '1.14.0'
   sdk.summary          = 'Victoria-ID - ID check - SDK - iOS'
 
   sdk.homepage         = 'https://www.victoria-id.com/'
@@ -11,7 +11,7 @@ Pod::Spec.new do |sdk|
   sdk.ios.deployment_target = '15.0'
   sdk.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
 
-  sdk.dependency 'iProov', '12.5.0'
-  sdk.dependency 'NFCPassportReader', '2.1.2'
+  sdk.dependency 'iProov', '13.1.1'
+  sdk.dependency 'NFCPassportReader', '2.2.0'
 
 end

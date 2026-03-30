@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		6ZI/L5mKjjU/HnU355rGKIw9/d0=
+		jtV+mMvTCWRH8MauIxwP/aKPlD4=
 		</data>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
-		9Kc325UqJnQvEa2jbqtawP3+zAU=
+		RC0qc0FS0zgnL6oJNr+qauuBztI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6AkEHA6tAE6zFmsYBldI33YUJx8=
+		nTaAQu74wYkeCQ2HfJWcXvw0WQE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		d/3rVoF01cWwGsPSbY94OzgSvqE=
+		xAlKbmpqUFgyaghpKBawnCVL8Kg=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RH172N3kP73NRrrGmZjQakLWxdQ=
+		hzp1NvTZpPfz8AdIJqFlD2O9fIs=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RH172N3kP73NRrrGmZjQakLWxdQ=
+		hzp1NvTZpPfz8AdIJqFlD2O9fIs=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iJqRi1ypgMvLTGa/lvCDlpO2hI8=
+		82+rQoEcIPbbdlCfm9xt4oboqU0=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		d/3rVoF01cWwGsPSbY94OzgSvqE=
+		xAlKbmpqUFgyaghpKBawnCVL8Kg=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		dCWGLHBap2ZdFmDdEneP9dLhCxo=
+		Y7L+DhHARA7RB++yRdMoYDDIucA=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,17 +54,17 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		dCWGLHBap2ZdFmDdEneP9dLhCxo=
+		Y7L+DhHARA7RB++yRdMoYDDIucA=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		odbu7Uw1vCfl2IIfRsdgGLKYEng=
+		PFn/s0apgQFd4K1bsNxq2p6BOH4=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ls6cdrt5b6wpCa7mOXFwlDv5Y10=
+			9z1N7bSsSrRJYENhCjzW7pZls58=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -73,7 +73,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XEzyto2XQ7JBedbGLkP/jjxtBXM=
+			Sl+ppBDu3DUYFCAoWtZgrbgxZxs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -82,7 +82,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qtKUhWbxz9atPgu2gjaZOkvP8ac=
+			u0BMaUob732Ii/Dp0V+zT7Pw4IY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oqEKYVrv1R9SNEnQYbDVRpd7p+c=
+			nuEXwmOGMyanrbA/0Yi8O9M/G6M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6CtSdgzdVpQHkoLJMEpW62l/TFjvTtIxaDv0+mwl2bY=
+			9mxTjj8Mj41ARl0atCt0zR11rI0FiYFPtAwThpOcMqA=
 			</data>
 		</dict>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZieXqPSJnNtdGViA0BsSstUMnReJ1heFyqlQ1eCu3YQ=
+			1FPMFB13kvuxcvJm4r7qHvfghNH9Yf8uS3UKVnKLf98=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -156,14 +156,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbycfWV2v/tD7R1SlfysI6m4WkpKfFb4JDTauVMCwIU=
+			XVw3YYa/kQj0Tgv63R6x21dd/xPJ4u1wsDSDZTndyIQ=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sSw764oxYfzYTVSqNvaJpAjY5RNH/gM/OhhqwEwweo0=
+			Z+KJqeaqzBQwZYhHFC/Ky6AW/D5Ldv+ceHXay5cTafo=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -177,28 +177,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sSw764oxYfzYTVSqNvaJpAjY5RNH/gM/OhhqwEwweo0=
+			Z+KJqeaqzBQwZYhHFC/Ky6AW/D5Ldv+ceHXay5cTafo=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u4Jdl18WuJjM76hVcHnROL7LHJX9MYUVX2BkY1SpLZw=
+			uXByFaCtSUHMK0WYVPgiiaxPqeX4Wg9LvO3VttW3CxA=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbycfWV2v/tD7R1SlfysI6m4WkpKfFb4JDTauVMCwIU=
+			XVw3YYa/kQj0Tgv63R6x21dd/xPJ4u1wsDSDZTndyIQ=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JOrY0mEEjep/6WL1FGG194I/sVdK/KuajCkq4+4tob4=
+			fYtlQf+v9rixLILq3hY0Ly7T9VQbNzq/6yIQmITp6Us=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -212,21 +212,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JOrY0mEEjep/6WL1FGG194I/sVdK/KuajCkq4+4tob4=
+			fYtlQf+v9rixLILq3hY0Ly7T9VQbNzq/6yIQmITp6Us=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pUYZswN3oMYd4p499BEoZRbstnXkoh5lUAtkDrawhDA=
+			1jhazC4mLygPu/9rZxnw1eL/XoDYZbD1+jeGV6dQ7vQ=
 			</data>
 		</dict>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EaSOdf6xmsjUaxSBPIFD+XFi8sHrHeY5bMN06Y2UBgk=
+			cYv+ooJULwJqmYIGdBOZzI9i4iqStwetciI4lg1vwdg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -235,7 +235,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WbWVIfXB6oLTYJUYfobSO2mMFQohbZpVMkEd258DKnU=
+			IsN49Ozwhdoh43DiB76OzmczDoq7MNzWszqqe/2NhSI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -244,7 +244,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H0S4ustyxfGtz4uRF8SoF23Ess4AodxegwtkDWXKRZE=
+			U14f9/qLfhW8M9vzXb9NcPpyEHEM/omy+kBszx3+Zr8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -281,7 +281,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yVTCkTJ8ye+qbi1Ics0piu3SosLVrwvW2BoWF9Zp+y0=
+			ULWGCUOqqgzR0nIMWYwKJIM4MXA9xc6+uMfweUXi8o4=
 			</data>
 			<key>optional</key>
 			<true/>
