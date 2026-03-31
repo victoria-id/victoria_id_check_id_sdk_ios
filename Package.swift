@@ -17,7 +17,7 @@ let package = Package(
             url: "https://github.com/iProov/ios-spm.git",
             exact: "13.1.1"
         ),
-        .package(url: "https://github.com/AndyQ/NFCPassportReader", exact: "2.2.0")
+        .package(url: "https://github.com/krzyzanowskim/OpenSSL.git", exact: "3.3.3001")
     ],
     targets: [
         .target(
@@ -26,7 +26,7 @@ let package = Package(
                 "victoria_id_check_id_sdk_ios",
                 .product(name: "TesseractOCR", package: "Tesseract-OCR-iOS"),
                 .product(name: "iProov", package: "ios-spm"),
-                .product(name: "NFCPassportReader", package: "NFCPassportReader"),
+                .product(name: "OpenSSL", package: "OpenSSL"),
             ]
         ),
         .binaryTarget(

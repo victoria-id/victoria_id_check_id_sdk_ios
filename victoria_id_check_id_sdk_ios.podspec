@@ -13,5 +13,6 @@ Pod::Spec.new do |sdk|
   sdk.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
 
   sdk.dependency 'iProov', '13.1.1'
+  sdk.dependency 'OpenSSL-Universal', '3.3.3001'
 
 end
