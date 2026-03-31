@@ -5,7 +5,7 @@ Pod::Spec.new do |sdk|
   sdk.summary          = 'Victoria-ID - ID check - SDK - iOS'
 
   sdk.homepage         = 'https://www.victoria-id.com/'
-  sdk.license          = {:file => 'license.md' }
+  sdk.license          = { :file => 'license.md' }
   sdk.author           = { 'Victoria-ID' => 'support@victoria-id.com' }
   sdk.source           = { :git => 'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git', :tag => sdk.version.to_s }
 
