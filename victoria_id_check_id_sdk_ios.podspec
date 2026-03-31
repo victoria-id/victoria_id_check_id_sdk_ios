@@ -5,6 +5,7 @@ Pod::Spec.new do |sdk|
   sdk.summary          = 'Victoria-ID - ID check - SDK - iOS'
 
   sdk.homepage         = 'https://www.victoria-id.com/'
+  sdk.license          = { :type => 'Proprietary', :file => 'license.md' }
   sdk.author           = { 'Victoria-ID' => 'support@victoria-id.com' }
   sdk.source           = { :git => 'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git', :tag => sdk.version.to_s }
 
@@ -12,6 +13,5 @@ Pod::Spec.new do |sdk|
   sdk.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
 
   sdk.dependency 'iProov', '13.1.1'
-  sdk.dependency 'NFCPassportReader', '2.2.0'
 
 end
