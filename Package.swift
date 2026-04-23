@@ -12,7 +12,7 @@ let package = Package(
             targets: ["victoria_id_check_id_sdk_ios_targets"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/victoria-id/Tesseract-OCR-iOS.git", branch: "v5.5"),
+        .package(url: "https://github.com/victoria-id/Tesseract-OCR-iOS.git", from: "5.5.1"),
         .package(
             url: "https://github.com/iProov/ios-spm.git",
             exact: "13.1.1"
