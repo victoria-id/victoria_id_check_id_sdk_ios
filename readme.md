@@ -2,21 +2,21 @@
 
 ## Table of contents
 
-1. [Victoria-ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
-   1. [Table of contents](#table-of-contents)
-   2. [Introduction](#introduction)
-   3. [Adding the SDK to your project](#adding-the-sdk-to-your-project)
-      1. [Swift Package Manager (SPM)](#swift-package-manager-spm)
-         1. [Installing via Xcode](#installing-via-xcode)
-         2. [Installing via Package.swift](#installing-via-packageswift)
-      2. [CocoaPods](#cocoapods)
-   4. [Usage](#usage)
+- [Victoria-ID - ID check - SDK - Documentation - iOS](#victoria-id---id-check---sdk---documentation---ios)
+  - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Adding the SDK to your project](#adding-the-sdk-to-your-project)
+    - [Swift Package Manager (SPM)](#swift-package-manager-spm)
+      - [Installing via Xcode](#installing-via-xcode)
+      - [Installing via Package.swift](#installing-via-packageswift)
+    - [CocoaPods](#cocoapods)
+  - [Usage](#usage)
 
 
 ## Introduction
 
 This SDK contains the ID check from Victoria-ID. It can be embedded in your application, which we will refer to as the "host application".
-The SDK is designed to launch an activity that walks the user through multiple steps of the ID check. After completion, the SDK will return metadata to the host application, indicating the success or failure of the operation.
+The SDK is designed to present a flow that walks the user through multiple steps of the ID check. After completion, the SDK will return metadata to the host application, indicating the success or failure of the operation.
 
 
 ## Adding the SDK to your project
@@ -65,7 +65,7 @@ Add the following to your Podfile:
 ```ruby
 
 # Victoria-ID - ID check - SDK dependencies - Start
-pod 'victoria_id_check_id_sdk_ios', git:'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git'
+pod 'victoria_id_check_id_sdk_ios', :git => 'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git'
 pod 'TesseractOCRiOS', :git => 'https://github.com/victoria-id/Tesseract-OCR-iOS', :tag => 'v5.5'
 # Victoria-ID - ID check - SDK dependencies - End
 
@@ -78,7 +78,7 @@ First, import the SDK:
 import victoria_id_check_id_sdk_ios
 ```
 
-To start the SDK activity from the host application (your application), use the code below.
+To start the SDK flow from the host application (your application), use the code below.
 For your convenience, we merged the code and this part of the documentation together so your codebase can benefit from code comments.
 
 ```swift
@@ -137,12 +137,12 @@ Victoria_ID_Check_ID_SDK(
     // Set the initial theme colors of the UI.
     // These colors should match the colors as they are set in the Portal settings of the screening portal.
     // When the SDK reaches step 3 of the user flow, it has made contact with the portal and fetched updated colors.
-    color_primary: Color(named: "color_primary"),       // The primary color used for call-to-action elements.
-    color_secondary: Color(named: "color_secondary"),   // Reserved.
-    color_tertiary: Color(named: "color_tertiary"),     // Reserved.
+    color_primary: Color("color_primary"),       // The primary color used for call-to-action elements.
+    color_secondary: Color("color_secondary"),   // Reserved.
+    color_tertiary: Color("color_tertiary"),     // Reserved.
 
-    font_color: Color(named: "font_color"),             // Reserved.
-    background_color: Color(named: "background_color")  // Reserved.
+    font_color: Color("font_color"),             // Reserved.
+    background_color: Color("background_color")  // Reserved.
 )
 
 ```
