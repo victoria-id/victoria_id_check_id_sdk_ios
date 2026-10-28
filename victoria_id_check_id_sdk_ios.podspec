@@ -1,7 +1,7 @@
 Pod::Spec.new do |sdk|
 
   sdk.name             = 'victoria_id_check_id_sdk_ios'
-  sdk.version          = '1.14.0'
+  sdk.version          = '1.16.1'
   sdk.summary          = 'Victoria-ID - ID check - SDK - iOS'
 
   sdk.homepage         = 'https://www.victoria-id.com/'
@@ -12,7 +12,7 @@ Pod::Spec.new do |sdk|
   sdk.ios.deployment_target = '15.0'
   sdk.ios.vendored_frameworks = 'Frameworks/victoria_id_check_id_sdk_ios.xcframework'
 
-  sdk.dependency 'iProov', '13.1.1'
+  sdk.dependency 'iProov', '13.2.1'
   sdk.dependency 'OpenSSL-Universal', '3.3.3001'
 
 end
