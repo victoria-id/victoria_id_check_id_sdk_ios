@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		NMtgsjFWQ/ed19yZoHG3HQZMmiQ=
+		YVedUWYXcS7+2xStokVpLiNV0Lc=
 		</data>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		O84vISHgyGzJfqMXyn58xA0fib4=
+		3UqMVq3IbQO9EAhLyI+WO5ZAMwQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		X8xzI3jFb8Pf/ayHbNKS2orlqNI=
+		pkZeTSXxj+FzLk9XSR0OTIlZaFY=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZuAGKbVR6VOhBHuE2yrwUSSI41UayGX5fS9ZdKlMO0I=
+			KMiov3f2JQdA4NokDJOj8ANrNEMr6iyrAKrz9R21fv0=
 			</data>
 		</dict>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
@@ -164,7 +164,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FOTti9lAhL170jfaiDAF+ZL+3QlOpUbbC87MbaeV0UA=
+			3BtUH9rdPM9kvq0D7FW5tdk/FAdd2f4HxkfKjMZ7Ifw=
 			</data>
 		</dict>
 		<key>de.lproj/Localizable.strings</key>
