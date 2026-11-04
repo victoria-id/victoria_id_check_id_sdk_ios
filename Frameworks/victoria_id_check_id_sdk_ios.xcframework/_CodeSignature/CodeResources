@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<data>
-		NMtgsjFWQ/ed19yZoHG3HQZMmiQ=
+		YVedUWYXcS7+2xStokVpLiNV0Lc=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<data>
-		O84vISHgyGzJfqMXyn58xA0fib4=
+		3UqMVq3IbQO9EAhLyI+WO5ZAMwQ=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		gOAV4llAOoV8siNu7qf+NAJfsKA=
+		gxOikskDLSrawkbKxJewYRvvIaA=
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
 		<dict>
@@ -110,11 +110,11 @@
 		</data>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<data>
-		jM/K0l0Yo4Hz5V8DQlhiU18rIv4=
+		nsSeQ9At8jApocTGIHlesqXfe+g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<data>
-		NMtgsjFWQ/ed19yZoHG3HQZMmiQ=
+		YVedUWYXcS7+2xStokVpLiNV0Lc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Info.plist</key>
 		<data>
-		g1FzMxSyaQJwqPD+RGHxgdVqIMU=
+		RNaSu5k2gtD+3FE3x4YzjUT1N6g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		g7LK+/Ej/wNQHgIzejeh7HsTa+0=
+		udS+Y58ginfjSwOqwXlD+7KP7V0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
 		<dict>
@@ -234,7 +234,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/victoria_id_check_id_sdk_ios</key>
 		<data>
-		hkC/upEdKRe8d8wCas0xYXxiYOA=
+		1TuUC6sCyLSA4CFZb+bI4/xRzYg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -243,7 +243,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZuAGKbVR6VOhBHuE2yrwUSSI41UayGX5fS9ZdKlMO0I=
+			KMiov3f2JQdA4NokDJOj8ANrNEMr6iyrAKrz9R21fv0=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
@@ -257,7 +257,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SgW6nEvrvxtbm1mzcooobkhvFqHnqeORTzFk8U2I5kg=
+			iCG9n9b+sCCScjQSESo7qMi/1VZTuDTlj5Uxa249uUs=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
@@ -299,7 +299,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JzkxDUrmihJ+a6169LwpC04YeZmxN4xtxbTzEUt5JxE=
+			nhNuFqdaVikMz6ejMJvzE3hPhnh5PO148wphoOiVdBE=
 			</data>
 		</dict>
 		<key>ios-arm64/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
@@ -398,14 +398,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eKhC1USpTBqljCrTUgWZf1gRGfOHUeksSiI7LRb5+qg=
+			9gPu2uvXBGUdEwUNnlPlrHvmBr1J7OF4w4p8c9Ubz50=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZuAGKbVR6VOhBHuE2yrwUSSI41UayGX5fS9ZdKlMO0I=
+			KMiov3f2JQdA4NokDJOj8ANrNEMr6iyrAKrz9R21fv0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
@@ -419,7 +419,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HoCzZqX6cMszMvlQxgzgWTIiWpQrGBlyQ28kGAslKx0=
+			E31AqHWBps2ToEjT8PrM2P8Da2Vse9Qa966xPJYEMjQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/Modules/module.modulemap</key>
@@ -489,7 +489,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FlQAPKby8ajEXnm792gBl/izEqXSb79n2oqjdghdI8M=
+			KiaYik5PH09PjwhMVumazb9oA8xnBJwoml7XQsUB7uk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/victoria_id_check_id_sdk_ios.framework/de.lproj/Localizable.strings</key>
@@ -588,7 +588,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3gZxM9xbQo1ZsXCldfibCFv1RxeFWz2NUmZMF+EsY4k=
+			lEIy1nl/QLtOVAfDJirkHkztfAu7sTKsb2HXN4bUUiI=
 			</data>
 		</dict>
 	</dict>

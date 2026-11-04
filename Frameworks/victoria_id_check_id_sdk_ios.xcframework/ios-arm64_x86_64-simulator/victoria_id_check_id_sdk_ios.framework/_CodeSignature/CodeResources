@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		NMtgsjFWQ/ed19yZoHG3HQZMmiQ=
+		YVedUWYXcS7+2xStokVpLiNV0Lc=
 		</data>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		g1FzMxSyaQJwqPD+RGHxgdVqIMU=
+		RNaSu5k2gtD+3FE3x4YzjUT1N6g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CTrc1ubw3T8hM2fg6cfKV2KjesA=
+		WmLuP4o4xVtIQPiSBxVFH2r7ITY=
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7ILugjp/NhwT2URbFeQHVDP4MNE=
+		iA1enBV7w5Dq5AzdY3whowCp5Hg=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
@@ -135,7 +135,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZuAGKbVR6VOhBHuE2yrwUSSI41UayGX5fS9ZdKlMO0I=
+			KMiov3f2JQdA4NokDJOj8ANrNEMr6iyrAKrz9R21fv0=
 			</data>
 		</dict>
 		<key>Headers/victoria_id_check_id_sdk_ios-Swift.h</key>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sw77i6e5IBbJOUjHB6CJ3XMpLu8JzROjXYYE0ZpnLso=
+			VpK4r2PKcKXnSoKu2iQg31Ce2niIPDKgmusijkJdsNM=
 			</data>
 		</dict>
 		<key>Modules/victoria_id_check_id_sdk_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -219,7 +219,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9W2hKSVk1RRIz9NyS5VDJqsPfy5j4yjOEIU8TYBI+Ks=
+			jOQQ9emuSt/J4ABQsXVdQWL799fVAE9d/BwLEhpFOWw=
 			</data>
 		</dict>
 		<key>de.lproj/Localizable.strings</key>

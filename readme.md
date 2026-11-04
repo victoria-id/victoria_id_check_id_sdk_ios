@@ -66,7 +66,7 @@ Add the following to your Podfile:
 
 # Victoria-ID - ID check - SDK dependencies - Start
 pod 'victoria_id_check_id_sdk_ios', :git => 'https://github.com/victoria-id/victoria_id_check_id_sdk_ios.git'
-pod 'TesseractOCRiOS', :git => 'https://github.com/victoria-id/Tesseract-OCR-iOS', :tag => 'v5.5'
+pod 'TesseractOCRiOS', :git => 'https://github.com/victoria-id/Tesseract-OCR-iOS', :tag => '5.5.2'
 # Victoria-ID - ID check - SDK dependencies - End
 
 ```
